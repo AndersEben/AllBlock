@@ -1,0 +1,675 @@
+# AllBlock – Quellen-Konfiguration
+#
+# Jede Kategorie bekommt:
+#   lists/<kategorie>/<id>.txt      -> jede einzelne Quelle (normalisiert, nur Domains)
+#   combined/<kategorie>.txt         -> alle Quellen der Kategorie zusammengefasst (Domains)
+#   combined/<kategorie>.adblock.txt -> dasselbe im AdGuard-Format (||domain^)
+#
+# Unterstützte Eingabeformate werden automatisch erkannt:
+#   hosts (0.0.0.0 domain), reine Domainlisten, Adblock (||domain^), Wildcards (*.domain), URLs.
+#
+# Neue Quelle hinzufügen: einfach einen [[categories.<kategorie>.sources]]-Block ergänzen.
+
+# --------------------------------------------------------------------------- #
+[categories.ads]
+title = "Werbung"
+description = "Werbe-Server, Ad-Networks, Pop-ups, mobile Werbung"
+
+[[categories.ads.sources]]
+id = "adguard-dns-filter"
+name = "AdGuard DNS filter"
+url = "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+homepage = "https://github.com/AdguardTeam/AdGuardSDNSFilter"
+
+[[categories.ads.sources]]
+id = "adaway"
+name = "AdAway default blocklist"
+url = "https://adaway.org/hosts.txt"
+homepage = "https://adaway.org"
+
+[[categories.ads.sources]]
+id = "peter-lowe"
+name = "Peter Lowe's Ad and tracking server list"
+url = "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
+homepage = "https://pgl.yoyo.org/adservers/"
+
+[[categories.ads.sources]]
+id = "firebog-easylist"
+name = "EasyList (Firebog Pi-hole-Format)"
+url = "https://v.firebog.net/hosts/Easylist.txt"
+homepage = "https://firebog.net"
+
+[[categories.ads.sources]]
+id = "firebog-admiral"
+name = "Admiral anti-adblock (Firebog)"
+url = "https://v.firebog.net/hosts/Admiral.txt"
+homepage = "https://firebog.net"
+
+[[categories.ads.sources]]
+id = "firebog-prigent-ads"
+name = "Fabrice Prigent – Ads (Firebog)"
+url = "https://v.firebog.net/hosts/Prigent-Ads.txt"
+homepage = "https://firebog.net"
+
+[[categories.ads.sources]]
+id = "anudeep-adservers"
+name = "anudeepND adservers"
+url = "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"
+homepage = "https://github.com/anudeepND/blacklist"
+
+[[categories.ads.sources]]
+id = "unchecky-ads"
+name = "FadeMind UncheckyAds"
+url = "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts"
+homepage = "https://github.com/FadeMind/hosts.extras"
+
+[[categories.ads.sources]]
+id = "someonewhocares"
+name = "Dan Pollock's hosts (someonewhocares)"
+url = "https://someonewhocares.org/hosts/zero/hosts"
+homepage = "https://someonewhocares.org/hosts/"
+
+[[categories.ads.sources]]
+id = "mvps"
+name = "MVPS HOSTS"
+url = "https://winhelp2002.mvps.org/hosts.txt"
+homepage = "https://winhelp2002.mvps.org"
+
+[[categories.ads.sources]]
+id = "adguard-mobile-ads"
+name = "AdGuard Mobile Ads (r-a-y)"
+url = "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt"
+homepage = "https://github.com/r-a-y/mobile-hosts"
+
+[[categories.ads.sources]]
+id = "developerdan-ads-tracking"
+name = "Lightswitch05 Ads & Tracking Extended"
+url = "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"
+homepage = "https://github.com/lightswitch05/hosts"
+
+[[categories.ads.sources]]
+id = "shadowwhisperer-ads"
+name = "ShadowWhisperer Ads"
+url = "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads"
+homepage = "https://github.com/ShadowWhisperer/BlockLists"
+
+[[categories.ads.sources]]
+id = "game-console-adblock"
+name = "Dandelion Sprout Game Console Adblock List"
+url = "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt"
+homepage = "https://github.com/DandelionSprout/adfilt"
+
+[[categories.ads.sources]]
+id = "hagezi-popupads"
+name = "HaGeZi Pop-Up Ads"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.ads.sources]]
+id = "disconnect-ads"
+name = "Disconnect.me Ads"
+url = "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
+homepage = "https://disconnect.me"
+
+[[categories.ads.sources]]
+id = "blocklistproject-ads"
+name = "The Block List Project – Ads"
+url = "https://blocklistproject.github.io/Lists/ads.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.ads.sources]]
+id = "goodbyeads"
+name = "GoodbyeAds"
+url = "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"
+homepage = "https://github.com/jerryn70/GoodbyeAds"
+
+# --------------------------------------------------------------------------- #
+[categories.tracking]
+title = "Tracking & Telemetrie"
+description = "Tracker, Analytics, Session-Replay, Geräte-/Betriebssystem-Telemetrie"
+
+[[categories.tracking.sources]]
+id = "firebog-easyprivacy"
+name = "EasyPrivacy (Firebog)"
+url = "https://v.firebog.net/hosts/Easyprivacy.txt"
+homepage = "https://firebog.net"
+
+[[categories.tracking.sources]]
+id = "fademind-2o7net"
+name = "FadeMind add.2o7Net"
+url = "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"
+homepage = "https://github.com/FadeMind/hosts.extras"
+
+[[categories.tracking.sources]]
+id = "frogeye-firstparty"
+name = "Frogeye First-Party Trackers"
+url = "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
+homepage = "https://hostfiles.frogeye.fr"
+
+[[categories.tracking.sources]]
+id = "windowsspyblocker"
+name = "WindowsSpyBlocker – spy"
+url = "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+homepage = "https://github.com/crazy-max/WindowsSpyBlocker"
+
+[[categories.tracking.sources]]
+id = "perflyst-smarttv"
+name = "Perflyst SmartTV"
+url = "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt"
+homepage = "https://github.com/Perflyst/PiHoleBlocklist"
+
+[[categories.tracking.sources]]
+id = "perflyst-android"
+name = "Perflyst Android Tracking"
+url = "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt"
+homepage = "https://github.com/Perflyst/PiHoleBlocklist"
+
+[[categories.tracking.sources]]
+id = "perflyst-firetv"
+name = "Perflyst Amazon Fire TV"
+url = "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt"
+homepage = "https://github.com/Perflyst/PiHoleBlocklist"
+
+[[categories.tracking.sources]]
+id = "perflyst-sessionreplay"
+name = "Perflyst Session Replay"
+url = "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt"
+homepage = "https://github.com/Perflyst/PiHoleBlocklist"
+
+[[categories.tracking.sources]]
+id = "shadowwhisperer-tracking"
+name = "ShadowWhisperer Tracking"
+url = "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking"
+homepage = "https://github.com/ShadowWhisperer/BlockLists"
+
+[[categories.tracking.sources]]
+id = "disconnect-tracking"
+name = "Disconnect.me Tracking"
+url = "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt"
+homepage = "https://disconnect.me"
+
+[[categories.tracking.sources]]
+id = "developerdan-tracking-aggressive"
+name = "Lightswitch05 Tracking Aggressive"
+url = "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt"
+homepage = "https://github.com/lightswitch05/hosts"
+
+[[categories.tracking.sources]]
+id = "blocklistproject-tracking"
+name = "The Block List Project – Tracking"
+url = "https://blocklistproject.github.io/Lists/tracking.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.tracking.sources]]
+id = "blocklistproject-smarttv"
+name = "The Block List Project – Smart TV"
+url = "https://blocklistproject.github.io/Lists/smart-tv.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-windows"
+name = "HaGeZi Native Tracker – Windows/Office"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-apple"
+name = "HaGeZi Native Tracker – Apple"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-amazon"
+name = "HaGeZi Native Tracker – Amazon"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-samsung"
+name = "HaGeZi Native Tracker – Samsung"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.samsung.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-xiaomi"
+name = "HaGeZi Native Tracker – Xiaomi"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.xiaomi.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-huawei"
+name = "HaGeZi Native Tracker – Huawei"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-lgwebos"
+name = "HaGeZi Native Tracker – LG webOS"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.lgwebos.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-tiktok"
+name = "HaGeZi Native Tracker – TikTok"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-roku"
+name = "HaGeZi Native Tracker – Roku"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.roku.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-vivo"
+name = "HaGeZi Native Tracker – Vivo"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.vivo.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.tracking.sources]]
+id = "hagezi-native-oppo-realme"
+name = "HaGeZi Native Tracker – OPPO/Realme"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.oppo-realme.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+# --------------------------------------------------------------------------- #
+[categories.malware]
+title = "Malware & Threat Intelligence"
+description = "Malware-Verteilung, C2-Server, Ransomware, Stalkerware, Malvertising"
+
+
+
+[[categories.malware.sources]]
+id = "urlhaus-filter"
+name = "malware-filter URLhaus Filter"
+url = "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt"
+homepage = "https://gitlab.com/malware-filter/urlhaus-filter"
+
+[[categories.malware.sources]]
+id = "hagezi-tif"
+name = "HaGeZi Threat Intelligence Feeds"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.malware.sources]]
+id = "dandelion-antimalware"
+name = "Dandelion Sprout Anti-Malware List"
+url = "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
+homepage = "https://github.com/DandelionSprout/adfilt"
+
+[[categories.malware.sources]]
+id = "firebog-prigent-malware"
+name = "Fabrice Prigent – Malware (Firebog)"
+url = "https://v.firebog.net/hosts/Prigent-Malware.txt"
+homepage = "https://firebog.net"
+
+[[categories.malware.sources]]
+id = "firebog-rpilist-malware"
+name = "RPiList Malware (Firebog)"
+url = "https://v.firebog.net/hosts/RPiList-Malware.txt"
+homepage = "https://firebog.net"
+
+
+[[categories.malware.sources]]
+id = "fademind-risk"
+name = "FadeMind add.Risk"
+url = "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts"
+homepage = "https://github.com/FadeMind/hosts.extras"
+
+[[categories.malware.sources]]
+id = "disconnect-malvertising"
+name = "Disconnect.me Malvertising"
+url = "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"
+homepage = "https://disconnect.me"
+
+[[categories.malware.sources]]
+id = "stalkerware"
+name = "Echap Stalkerware Indicators"
+url = "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts"
+homepage = "https://github.com/AssoEchap/stalkerware-indicators"
+
+[[categories.malware.sources]]
+id = "shadowwhisperer-malware"
+name = "ShadowWhisperer Malware"
+url = "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware"
+homepage = "https://github.com/ShadowWhisperer/BlockLists"
+
+[[categories.malware.sources]]
+id = "blocklistproject-malware"
+name = "The Block List Project – Malware"
+url = "https://blocklistproject.github.io/Lists/malware.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.malware.sources]]
+id = "blocklistproject-ransomware"
+name = "The Block List Project – Ransomware"
+url = "https://blocklistproject.github.io/Lists/ransomware.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.malware.sources]]
+id = "blocklistproject-abuse"
+name = "The Block List Project – Abuse"
+url = "https://blocklistproject.github.io/Lists/abuse.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.phishing]
+title = "Phishing"
+description = "Phishing-Seiten und Credential-Harvesting"
+
+
+[[categories.phishing.sources]]
+id = "phishing-filter"
+name = "malware-filter Phishing Filter"
+url = "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt"
+homepage = "https://gitlab.com/malware-filter/phishing-filter"
+
+[[categories.phishing.sources]]
+id = "phishing-database-active"
+name = "Phishing.Database – aktive Domains"
+url = "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt"
+homepage = "https://github.com/mitchellkrogza/Phishing.Database"
+
+[[categories.phishing.sources]]
+id = "openphish"
+name = "OpenPhish Community Feed"
+url = "https://openphish.com/feed.txt"
+homepage = "https://openphish.com"
+
+[[categories.phishing.sources]]
+id = "firebog-rpilist-phishing"
+name = "RPiList Phishing (Firebog)"
+url = "https://v.firebog.net/hosts/RPiList-Phishing.txt"
+homepage = "https://firebog.net"
+
+[[categories.phishing.sources]]
+id = "blocklistproject-phishing"
+name = "The Block List Project – Phishing"
+url = "https://blocklistproject.github.io/Lists/phishing.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.scam]
+title = "Scam & Betrug"
+description = "Fake-Shops, Betrugsseiten, Spam, Redirect-Fallen"
+
+[[categories.scam.sources]]
+id = "hagezi-fake"
+name = "HaGeZi Fake (Fake-Shops, Scam)"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.scam.sources]]
+id = "spam404"
+name = "Spam404"
+url = "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
+homepage = "https://github.com/Spam404/lists"
+
+[[categories.scam.sources]]
+id = "durablenapkin-scam"
+name = "durablenapkin Scam Blocklist"
+url = "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt"
+homepage = "https://github.com/durablenapkin/scamblocklist"
+
+[[categories.scam.sources]]
+id = "jarelllama-scam"
+name = "jarelllama Scam Blocklist"
+url = "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt"
+homepage = "https://github.com/jarelllama/Scam-Blocklist"
+
+[[categories.scam.sources]]
+id = "shadowwhisperer-scam"
+name = "ShadowWhisperer Scam"
+url = "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam"
+homepage = "https://github.com/ShadowWhisperer/BlockLists"
+
+[[categories.scam.sources]]
+id = "blocklistproject-scam"
+name = "The Block List Project – Scam"
+url = "https://blocklistproject.github.io/Lists/scam.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.scam.sources]]
+id = "blocklistproject-fraud"
+name = "The Block List Project – Fraud"
+url = "https://blocklistproject.github.io/Lists/fraud.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.scam.sources]]
+id = "blocklistproject-redirect"
+name = "The Block List Project – Redirect"
+url = "https://blocklistproject.github.io/Lists/redirect.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.cryptomining]
+title = "Cryptomining"
+description = "Browser-Miner und Cryptojacking"
+
+[[categories.cryptomining.sources]]
+id = "nocoin"
+name = "NoCoin Filter List"
+url = "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
+homepage = "https://github.com/hoshsadiq/adblock-nocoin-list"
+
+[[categories.cryptomining.sources]]
+id = "firebog-prigent-crypto"
+name = "Fabrice Prigent – Crypto (Firebog)"
+url = "https://v.firebog.net/hosts/Prigent-Crypto.txt"
+homepage = "https://firebog.net"
+
+[[categories.cryptomining.sources]]
+id = "blocklistproject-crypto"
+name = "The Block List Project – Crypto"
+url = "https://blocklistproject.github.io/Lists/crypto.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.adult]
+title = "Erwachseneninhalte"
+description = "Pornografie und NSFW-Inhalte"
+
+[[categories.adult.sources]]
+id = "hagezi-nsfw"
+name = "HaGeZi NSFW"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.adult.sources]]
+id = "oisd-nsfw"
+name = "OISD NSFW"
+url = "https://nsfw.oisd.nl/domainswild"
+homepage = "https://oisd.nl"
+
+[[categories.adult.sources]]
+id = "sinfonietta-porn"
+name = "Sinfonietta pornography-hosts"
+url = "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts"
+homepage = "https://github.com/Sinfonietta/hostfiles"
+
+[[categories.adult.sources]]
+id = "stevenblack-porn"
+name = "StevenBlack Extension – Porn"
+url = "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts"
+homepage = "https://github.com/StevenBlack/hosts"
+
+[[categories.adult.sources]]
+id = "chadmayfield-porn"
+name = "chadmayfield Porn Top 1M"
+url = "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list"
+homepage = "https://github.com/chadmayfield/my-pihole-blocklists"
+
+[[categories.adult.sources]]
+id = "shadowwhisperer-adult"
+name = "ShadowWhisperer Adult"
+url = "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult"
+homepage = "https://github.com/ShadowWhisperer/BlockLists"
+
+[[categories.adult.sources]]
+id = "blocklistproject-porn"
+name = "The Block List Project – Porn"
+url = "https://blocklistproject.github.io/Lists/porn.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.gambling]
+title = "Glücksspiel"
+description = "Online-Casinos, Sportwetten, Glücksspiel"
+
+[[categories.gambling.sources]]
+id = "hagezi-gambling"
+name = "HaGeZi Gambling"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.gambling.sources]]
+id = "sinfonietta-gambling"
+name = "Sinfonietta gambling-hosts"
+url = "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts"
+homepage = "https://github.com/Sinfonietta/hostfiles"
+
+[[categories.gambling.sources]]
+id = "stevenblack-gambling"
+name = "StevenBlack Extension – Gambling"
+url = "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts"
+homepage = "https://github.com/StevenBlack/hosts"
+
+[[categories.gambling.sources]]
+id = "blocklistproject-gambling"
+name = "The Block List Project – Gambling"
+url = "https://blocklistproject.github.io/Lists/gambling.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.social]
+title = "Social Media"
+description = "Soziale Netzwerke (Facebook, Instagram, TikTok, X, …)"
+
+[[categories.social.sources]]
+id = "hagezi-social"
+name = "HaGeZi Social Networks"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/social.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.social.sources]]
+id = "sinfonietta-social"
+name = "Sinfonietta social-hosts"
+url = "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts"
+homepage = "https://github.com/Sinfonietta/hostfiles"
+
+[[categories.social.sources]]
+id = "stevenblack-social"
+name = "StevenBlack Extension – Social"
+url = "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts"
+homepage = "https://github.com/StevenBlack/hosts"
+
+[[categories.social.sources]]
+id = "blocklistproject-facebook"
+name = "The Block List Project – Facebook"
+url = "https://blocklistproject.github.io/Lists/facebook.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.social.sources]]
+id = "blocklistproject-tiktok"
+name = "The Block List Project – TikTok"
+url = "https://blocklistproject.github.io/Lists/tiktok.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.fakenews]
+title = "Fake News"
+description = "Bekannte Desinformations- und Fake-News-Seiten"
+
+[[categories.fakenews.sources]]
+id = "stevenblack-fakenews"
+name = "StevenBlack Extension – Fakenews"
+url = "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts"
+homepage = "https://github.com/StevenBlack/hosts"
+
+[[categories.fakenews.sources]]
+id = "marktron-fakenews"
+name = "marktron fakenews"
+url = "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews"
+homepage = "https://github.com/marktron/fakenews"
+
+# --------------------------------------------------------------------------- #
+[categories.piracy]
+title = "Piraterie & Torrents"
+description = "Warez-, Streaming- und Torrent-Seiten"
+
+[[categories.piracy.sources]]
+id = "hagezi-anti-piracy"
+name = "HaGeZi Anti-Piracy"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.piracy.sources]]
+id = "blocklistproject-piracy"
+name = "The Block List Project – Piracy"
+url = "https://blocklistproject.github.io/Lists/piracy.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+[[categories.piracy.sources]]
+id = "blocklistproject-torrent"
+name = "The Block List Project – Torrent"
+url = "https://blocklistproject.github.io/Lists/torrent.txt"
+homepage = "https://github.com/blocklistproject/Lists"
+
+# --------------------------------------------------------------------------- #
+[categories.bypass]
+title = "DoH / VPN / Proxy-Bypass"
+description = "Verhindert das Umgehen des DNS-Filters über DoH-Resolver, VPNs, Proxies"
+
+[[categories.bypass.sources]]
+id = "hagezi-doh-vpn-proxy"
+name = "HaGeZi DoH/VPN/TOR/Proxy Bypass"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.bypass.sources]]
+id = "hagezi-doh"
+name = "HaGeZi Encrypted DNS Servers"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.bypass.sources]]
+id = "dibdot-doh"
+name = "dibdot DoH Domains"
+url = "https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt"
+homepage = "https://github.com/dibdot/DoH-IP-blocklists"
+
+# --------------------------------------------------------------------------- #
+[categories.multi]
+title = "All-in-One"
+description = "Große kuratierte Kombi-Listen (Werbung + Tracking + Malware)"
+
+[[categories.multi.sources]]
+id = "stevenblack-unified"
+name = "StevenBlack Unified Hosts"
+url = "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+homepage = "https://github.com/StevenBlack/hosts"
+
+[[categories.multi.sources]]
+id = "oisd-big"
+name = "OISD Big"
+url = "https://big.oisd.nl/domainswild"
+homepage = "https://oisd.nl"
+
+[[categories.multi.sources]]
+id = "hagezi-pro"
+name = "HaGeZi Multi PRO"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+[[categories.multi.sources]]
+id = "hagezi-ultimate"
+name = "HaGeZi Multi ULTIMATE"
+url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt"
+homepage = "https://github.com/hagezi/dns-blocklists"
+
+
+[[categories.multi.sources]]
+id = "hblock"
+name = "hBlock"
+url = "https://hblock.molinero.dev/hosts_domains.txt"
+homepage = "https://github.com/hectorm/hblock"

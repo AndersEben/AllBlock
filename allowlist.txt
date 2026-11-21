@@ -1,0 +1,9 @@
+# AllBlock – globale Allowlist
+# Domains hier werden aus ALLEN Listen und Kategorien entfernt (exakter Treffer).
+# Nur Domains eintragen, die nie blockiert werden sollen (False Positives).
+# Ein Eintrag pro Zeile, Kommentare mit #.
+
+# Infrastruktur, die Blocklisten-Updates selbst benötigen
+raw.githubusercontent.com
+github.com
+gitlab.com
