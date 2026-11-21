@@ -1,0 +1,1225 @@
+{
+  "generated": "2026-11-21T21:48:30+00:00",
+  "categories": {
+    "ads": {
+      "title": "Werbung",
+      "entries": 996896,
+      "files": [
+        "combined/ads.txt",
+        "combined/ads.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "adguard-dns-filter",
+          "name": "AdGuard DNS filter",
+          "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+          "status": "ok",
+          "entries": 191256,
+          "error": "",
+          "files": [
+            "lists/ads/adguard-dns-filter.txt"
+          ]
+        },
+        {
+          "id": "adaway",
+          "name": "AdAway default blocklist",
+          "url": "https://adaway.org/hosts.txt",
+          "status": "ok",
+          "entries": 6540,
+          "error": "",
+          "files": [
+            "lists/ads/adaway.txt"
+          ]
+        },
+        {
+          "id": "peter-lowe",
+          "name": "Peter Lowe's Ad and tracking server list",
+          "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+          "status": "ok",
+          "entries": 3554,
+          "error": "",
+          "files": [
+            "lists/ads/peter-lowe.txt"
+          ]
+        },
+        {
+          "id": "firebog-easylist",
+          "name": "EasyList (Firebog Pi-hole-Format)",
+          "url": "https://v.firebog.net/hosts/Easylist.txt",
+          "status": "ok",
+          "entries": 51631,
+          "error": "",
+          "files": [
+            "lists/ads/firebog-easylist.txt"
+          ]
+        },
+        {
+          "id": "firebog-admiral",
+          "name": "Admiral anti-adblock (Firebog)",
+          "url": "https://v.firebog.net/hosts/Admiral.txt",
+          "status": "ok",
+          "entries": 1653,
+          "error": "",
+          "files": [
+            "lists/ads/firebog-admiral.txt"
+          ]
+        },
+        {
+          "id": "firebog-prigent-ads",
+          "name": "Fabrice Prigent – Ads (Firebog)",
+          "url": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+          "status": "ok",
+          "entries": 4269,
+          "error": "",
+          "files": [
+            "lists/ads/firebog-prigent-ads.txt"
+          ]
+        },
+        {
+          "id": "anudeep-adservers",
+          "name": "anudeepND adservers",
+          "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+          "status": "ok",
+          "entries": 42358,
+          "error": "",
+          "files": [
+            "lists/ads/anudeep-adservers.txt"
+          ]
+        },
+        {
+          "id": "unchecky-ads",
+          "name": "FadeMind UncheckyAds",
+          "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+          "status": "ok",
+          "entries": 9,
+          "error": "",
+          "files": [
+            "lists/ads/unchecky-ads.txt"
+          ]
+        },
+        {
+          "id": "someonewhocares",
+          "name": "Dan Pollock's hosts (someonewhocares)",
+          "url": "https://someonewhocares.org/hosts/zero/hosts",
+          "status": "ok",
+          "entries": 13090,
+          "error": "",
+          "files": [
+            "lists/ads/someonewhocares.txt"
+          ]
+        },
+        {
+          "id": "mvps",
+          "name": "MVPS HOSTS",
+          "url": "https://winhelp2002.mvps.org/hosts.txt",
+          "status": "ok",
+          "entries": 8730,
+          "error": "",
+          "files": [
+            "lists/ads/mvps.txt"
+          ]
+        },
+        {
+          "id": "adguard-mobile-ads",
+          "name": "AdGuard Mobile Ads (r-a-y)",
+          "url": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt",
+          "status": "ok",
+          "entries": 936,
+          "error": "",
+          "files": [
+            "lists/ads/adguard-mobile-ads.txt"
+          ]
+        },
+        {
+          "id": "developerdan-ads-tracking",
+          "name": "Lightswitch05 Ads & Tracking Extended",
+          "url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+          "status": "ok",
+          "entries": 429282,
+          "error": "",
+          "files": [
+            "lists/ads/developerdan-ads-tracking.txt"
+          ]
+        },
+        {
+          "id": "shadowwhisperer-ads",
+          "name": "ShadowWhisperer Ads",
+          "url": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads",
+          "status": "ok",
+          "entries": 30004,
+          "error": "",
+          "files": [
+            "lists/ads/shadowwhisperer-ads.txt"
+          ]
+        },
+        {
+          "id": "game-console-adblock",
+          "name": "Dandelion Sprout Game Console Adblock List",
+          "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt",
+          "status": "ok",
+          "entries": 16,
+          "error": "",
+          "files": [
+            "lists/ads/game-console-adblock.txt"
+          ]
+        },
+        {
+          "id": "hagezi-popupads",
+          "name": "HaGeZi Pop-Up Ads",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt",
+          "status": "ok",
+          "entries": 72984,
+          "error": "",
+          "files": [
+            "lists/ads/hagezi-popupads.txt"
+          ]
+        },
+        {
+          "id": "disconnect-ads",
+          "name": "Disconnect.me Ads",
+          "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+          "status": "ok",
+          "entries": 2700,
+          "error": "",
+          "files": [
+            "lists/ads/disconnect-ads.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-ads",
+          "name": "The Block List Project – Ads",
+          "url": "https://blocklistproject.github.io/Lists/ads.txt",
+          "status": "ok",
+          "entries": 235897,
+          "error": "",
+          "files": [
+            "lists/ads/blocklistproject-ads.txt"
+          ]
+        },
+        {
+          "id": "goodbyeads",
+          "name": "GoodbyeAds",
+          "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
+          "status": "ok",
+          "entries": 277774,
+          "error": "",
+          "files": [
+            "lists/ads/goodbyeads.txt"
+          ]
+        }
+      ]
+    },
+    "tracking": {
+      "title": "Tracking & Telemetrie",
+      "entries": 378848,
+      "files": [
+        "combined/tracking.txt",
+        "combined/tracking.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "firebog-easyprivacy",
+          "name": "EasyPrivacy (Firebog)",
+          "url": "https://v.firebog.net/hosts/Easyprivacy.txt",
+          "status": "ok",
+          "entries": 43263,
+          "error": "",
+          "files": [
+            "lists/tracking/firebog-easyprivacy.txt"
+          ]
+        },
+        {
+          "id": "fademind-2o7net",
+          "name": "FadeMind add.2o7Net",
+          "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+          "status": "ok",
+          "entries": 2030,
+          "error": "",
+          "files": [
+            "lists/tracking/fademind-2o7net.txt"
+          ]
+        },
+        {
+          "id": "frogeye-firstparty",
+          "name": "Frogeye First-Party Trackers",
+          "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+          "status": "ok",
+          "entries": 15012,
+          "error": "",
+          "files": [
+            "lists/tracking/frogeye-firstparty.txt"
+          ]
+        },
+        {
+          "id": "windowsspyblocker",
+          "name": "WindowsSpyBlocker – spy",
+          "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+          "status": "ok",
+          "entries": 347,
+          "error": "",
+          "files": [
+            "lists/tracking/windowsspyblocker.txt"
+          ]
+        },
+        {
+          "id": "perflyst-smarttv",
+          "name": "Perflyst SmartTV",
+          "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt",
+          "status": "ok",
+          "entries": 498,
+          "error": "",
+          "files": [
+            "lists/tracking/perflyst-smarttv.txt"
+          ]
+        },
+        {
+          "id": "perflyst-android",
+          "name": "Perflyst Android Tracking",
+          "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt",
+          "status": "ok",
+          "entries": 80,
+          "error": "",
+          "files": [
+            "lists/tracking/perflyst-android.txt"
+          ]
+        },
+        {
+          "id": "perflyst-firetv",
+          "name": "Perflyst Amazon Fire TV",
+          "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
+          "status": "ok",
+          "entries": 16,
+          "error": "",
+          "files": [
+            "lists/tracking/perflyst-firetv.txt"
+          ]
+        },
+        {
+          "id": "perflyst-sessionreplay",
+          "name": "Perflyst Session Replay",
+          "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt",
+          "status": "ok",
+          "entries": 24,
+          "error": "",
+          "files": [
+            "lists/tracking/perflyst-sessionreplay.txt"
+          ]
+        },
+        {
+          "id": "shadowwhisperer-tracking",
+          "name": "ShadowWhisperer Tracking",
+          "url": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking",
+          "status": "ok",
+          "entries": 134219,
+          "error": "",
+          "files": [
+            "lists/tracking/shadowwhisperer-tracking.txt"
+          ]
+        },
+        {
+          "id": "disconnect-tracking",
+          "name": "Disconnect.me Tracking",
+          "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+          "status": "ok",
+          "entries": 34,
+          "error": "",
+          "files": [
+            "lists/tracking/disconnect-tracking.txt"
+          ]
+        },
+        {
+          "id": "developerdan-tracking-aggressive",
+          "name": "Lightswitch05 Tracking Aggressive",
+          "url": "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt",
+          "status": "ok",
+          "entries": 171820,
+          "error": "",
+          "files": [
+            "lists/tracking/developerdan-tracking-aggressive.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-tracking",
+          "name": "The Block List Project – Tracking",
+          "url": "https://blocklistproject.github.io/Lists/tracking.txt",
+          "status": "ok",
+          "entries": 143876,
+          "error": "",
+          "files": [
+            "lists/tracking/blocklistproject-tracking.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-smarttv",
+          "name": "The Block List Project – Smart TV",
+          "url": "https://blocklistproject.github.io/Lists/smart-tv.txt",
+          "status": "ok",
+          "entries": 77,
+          "error": "",
+          "files": [
+            "lists/tracking/blocklistproject-smarttv.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-windows",
+          "name": "HaGeZi Native Tracker – Windows/Office",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt",
+          "status": "ok",
+          "entries": 395,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-windows.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-apple",
+          "name": "HaGeZi Native Tracker – Apple",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple.txt",
+          "status": "ok",
+          "entries": 105,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-apple.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-amazon",
+          "name": "HaGeZi Native Tracker – Amazon",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon.txt",
+          "status": "ok",
+          "entries": 380,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-amazon.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-samsung",
+          "name": "HaGeZi Native Tracker – Samsung",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.samsung.txt",
+          "status": "ok",
+          "entries": 201,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-samsung.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-xiaomi",
+          "name": "HaGeZi Native Tracker – Xiaomi",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.xiaomi.txt",
+          "status": "ok",
+          "entries": 411,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-xiaomi.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-huawei",
+          "name": "HaGeZi Native Tracker – Huawei",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt",
+          "status": "ok",
+          "entries": 148,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-huawei.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-lgwebos",
+          "name": "HaGeZi Native Tracker – LG webOS",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.lgwebos.txt",
+          "status": "ok",
+          "entries": 461,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-lgwebos.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-tiktok",
+          "name": "HaGeZi Native Tracker – TikTok",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt",
+          "status": "ok",
+          "entries": 553,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-tiktok.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-roku",
+          "name": "HaGeZi Native Tracker – Roku",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.roku.txt",
+          "status": "ok",
+          "entries": 64,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-roku.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-vivo",
+          "name": "HaGeZi Native Tracker – Vivo",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.vivo.txt",
+          "status": "ok",
+          "entries": 302,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-vivo.txt"
+          ]
+        },
+        {
+          "id": "hagezi-native-oppo-realme",
+          "name": "HaGeZi Native Tracker – OPPO/Realme",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.oppo-realme.txt",
+          "status": "ok",
+          "entries": 532,
+          "error": "",
+          "files": [
+            "lists/tracking/hagezi-native-oppo-realme.txt"
+          ]
+        }
+      ]
+    },
+    "malware": {
+      "title": "Malware & Threat Intelligence",
+      "entries": 4108331,
+      "files": [
+        "combined/malware.txt",
+        "combined/malware.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "urlhaus-filter",
+          "name": "malware-filter URLhaus Filter",
+          "url": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt",
+          "status": "ok",
+          "entries": 2142,
+          "error": "",
+          "files": [
+            "lists/malware/urlhaus-filter.txt"
+          ]
+        },
+        {
+          "id": "hagezi-tif",
+          "name": "HaGeZi Threat Intelligence Feeds",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt",
+          "status": "ok",
+          "entries": 1577490,
+          "error": "",
+          "files": [
+            "lists/malware/hagezi-tif.txt"
+          ]
+        },
+        {
+          "id": "dandelion-antimalware",
+          "name": "Dandelion Sprout Anti-Malware List",
+          "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+          "status": "ok",
+          "entries": 11686,
+          "error": "",
+          "files": [
+            "lists/malware/dandelion-antimalware.txt"
+          ]
+        },
+        {
+          "id": "firebog-prigent-malware",
+          "name": "Fabrice Prigent – Malware (Firebog)",
+          "url": "https://v.firebog.net/hosts/Prigent-Malware.txt",
+          "status": "ok",
+          "entries": 239641,
+          "error": "",
+          "files": [
+            "lists/malware/firebog-prigent-malware.txt"
+          ]
+        },
+        {
+          "id": "firebog-rpilist-malware",
+          "name": "RPiList Malware (Firebog)",
+          "url": "https://v.firebog.net/hosts/RPiList-Malware.txt",
+          "status": "ok",
+          "entries": 761609,
+          "error": "",
+          "files": [
+            "lists/malware/firebog-rpilist-malware.txt"
+          ]
+        },
+        {
+          "id": "fademind-risk",
+          "name": "FadeMind add.Risk",
+          "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
+          "status": "ok",
+          "entries": 2189,
+          "error": "",
+          "files": [
+            "lists/malware/fademind-risk.txt"
+          ]
+        },
+        {
+          "id": "disconnect-malvertising",
+          "name": "Disconnect.me Malvertising",
+          "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+          "status": "ok",
+          "entries": 2735,
+          "error": "",
+          "files": [
+            "lists/malware/disconnect-malvertising.txt"
+          ]
+        },
+        {
+          "id": "stalkerware",
+          "name": "Echap Stalkerware Indicators",
+          "url": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+          "status": "ok",
+          "entries": 929,
+          "error": "",
+          "files": [
+            "lists/malware/stalkerware.txt"
+          ]
+        },
+        {
+          "id": "shadowwhisperer-malware",
+          "name": "ShadowWhisperer Malware",
+          "url": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
+          "status": "ok",
+          "entries": 29527,
+          "error": "",
+          "files": [
+            "lists/malware/shadowwhisperer-malware.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-malware",
+          "name": "The Block List Project – Malware",
+          "url": "https://blocklistproject.github.io/Lists/malware.txt",
+          "status": "ok",
+          "entries": 2655820,
+          "error": "",
+          "files": [
+            "lists/malware/blocklistproject-malware.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-ransomware",
+          "name": "The Block List Project – Ransomware",
+          "url": "https://blocklistproject.github.io/Lists/ransomware.txt",
+          "status": "ok",
+          "entries": 1904,
+          "error": "",
+          "files": [
+            "lists/malware/blocklistproject-ransomware.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-abuse",
+          "name": "The Block List Project – Abuse",
+          "url": "https://blocklistproject.github.io/Lists/abuse.txt",
+          "status": "ok",
+          "entries": 435106,
+          "error": "",
+          "files": [
+            "lists/malware/blocklistproject-abuse.txt"
+          ]
+        }
+      ]
+    },
+    "phishing": {
+      "title": "Phishing",
+      "entries": 730818,
+      "files": [
+        "combined/phishing.txt",
+        "combined/phishing.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "phishing-filter",
+          "name": "malware-filter Phishing Filter",
+          "url": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
+          "status": "ok",
+          "entries": 16674,
+          "error": "",
+          "files": [
+            "lists/phishing/phishing-filter.txt"
+          ]
+        },
+        {
+          "id": "phishing-database-active",
+          "name": "Phishing.Database – aktive Domains",
+          "url": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
+          "status": "ok",
+          "entries": 386608,
+          "error": "",
+          "files": [
+            "lists/phishing/phishing-database-active.txt"
+          ]
+        },
+        {
+          "id": "openphish",
+          "name": "OpenPhish Community Feed",
+          "url": "https://openphish.com/feed.txt",
+          "status": "ok",
+          "entries": 291,
+          "error": "",
+          "files": [
+            "lists/phishing/openphish.txt"
+          ]
+        },
+        {
+          "id": "firebog-rpilist-phishing",
+          "name": "RPiList Phishing (Firebog)",
+          "url": "https://v.firebog.net/hosts/RPiList-Phishing.txt",
+          "status": "ok",
+          "entries": 153858,
+          "error": "",
+          "files": [
+            "lists/phishing/firebog-rpilist-phishing.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-phishing",
+          "name": "The Block List Project – Phishing",
+          "url": "https://blocklistproject.github.io/Lists/phishing.txt",
+          "status": "ok",
+          "entries": 190193,
+          "error": "",
+          "files": [
+            "lists/phishing/blocklistproject-phishing.txt"
+          ]
+        }
+      ]
+    },
+    "scam": {
+      "title": "Scam & Betrug",
+      "entries": 889270,
+      "files": [
+        "combined/scam.txt",
+        "combined/scam.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "hagezi-fake",
+          "name": "HaGeZi Fake (Fake-Shops, Scam)",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt",
+          "status": "ok",
+          "entries": 10745,
+          "error": "",
+          "files": [
+            "lists/scam/hagezi-fake.txt"
+          ]
+        },
+        {
+          "id": "spam404",
+          "name": "Spam404",
+          "url": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+          "status": "ok",
+          "entries": 8140,
+          "error": "",
+          "files": [
+            "lists/scam/spam404.txt"
+          ]
+        },
+        {
+          "id": "durablenapkin-scam",
+          "name": "durablenapkin Scam Blocklist",
+          "url": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
+          "status": "ok",
+          "entries": 2155,
+          "error": "",
+          "files": [
+            "lists/scam/durablenapkin-scam.txt"
+          ]
+        },
+        {
+          "id": "jarelllama-scam",
+          "name": "jarelllama Scam Blocklist",
+          "url": "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
+          "status": "ok",
+          "entries": 468729,
+          "error": "",
+          "files": [
+            "lists/scam/jarelllama-scam.txt"
+          ]
+        },
+        {
+          "id": "shadowwhisperer-scam",
+          "name": "ShadowWhisperer Scam",
+          "url": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam",
+          "status": "ok",
+          "entries": 6185,
+          "error": "",
+          "files": [
+            "lists/scam/shadowwhisperer-scam.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-scam",
+          "name": "The Block List Project – Scam",
+          "url": "https://blocklistproject.github.io/Lists/scam.txt",
+          "status": "ok",
+          "entries": 8527,
+          "error": "",
+          "files": [
+            "lists/scam/blocklistproject-scam.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-fraud",
+          "name": "The Block List Project – Fraud",
+          "url": "https://blocklistproject.github.io/Lists/fraud.txt",
+          "status": "ok",
+          "entries": 285200,
+          "error": "",
+          "files": [
+            "lists/scam/blocklistproject-fraud.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-redirect",
+          "name": "The Block List Project – Redirect",
+          "url": "https://blocklistproject.github.io/Lists/redirect.txt",
+          "status": "ok",
+          "entries": 108685,
+          "error": "",
+          "files": [
+            "lists/scam/blocklistproject-redirect.txt"
+          ]
+        }
+      ]
+    },
+    "cryptomining": {
+      "title": "Cryptomining",
+      "entries": 12062,
+      "files": [
+        "combined/cryptomining.txt",
+        "combined/cryptomining.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "nocoin",
+          "name": "NoCoin Filter List",
+          "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+          "status": "ok",
+          "entries": 312,
+          "error": "",
+          "files": [
+            "lists/cryptomining/nocoin.txt"
+          ]
+        },
+        {
+          "id": "firebog-prigent-crypto",
+          "name": "Fabrice Prigent – Crypto (Firebog)",
+          "url": "https://v.firebog.net/hosts/Prigent-Crypto.txt",
+          "status": "ok",
+          "entries": 11490,
+          "error": "",
+          "files": [
+            "lists/cryptomining/firebog-prigent-crypto.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-crypto",
+          "name": "The Block List Project – Crypto",
+          "url": "https://blocklistproject.github.io/Lists/crypto.txt",
+          "status": "ok",
+          "entries": 1274,
+          "error": "",
+          "files": [
+            "lists/cryptomining/blocklistproject-crypto.txt"
+          ]
+        }
+      ]
+    },
+    "adult": {
+      "title": "Erwachseneninhalte",
+      "entries": 1183766,
+      "files": [
+        "combined/adult.txt",
+        "combined/adult.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "hagezi-nsfw",
+          "name": "HaGeZi NSFW",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw.txt",
+          "status": "ok",
+          "entries": 88002,
+          "error": "",
+          "files": [
+            "lists/adult/hagezi-nsfw.txt"
+          ]
+        },
+        {
+          "id": "oisd-nsfw",
+          "name": "OISD NSFW",
+          "url": "https://nsfw.oisd.nl/domainswild",
+          "status": "ok",
+          "entries": 498353,
+          "error": "",
+          "files": [
+            "lists/adult/oisd-nsfw.txt"
+          ]
+        },
+        {
+          "id": "sinfonietta-porn",
+          "name": "Sinfonietta pornography-hosts",
+          "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
+          "status": "ok",
+          "entries": 61154,
+          "error": "",
+          "files": [
+            "lists/adult/sinfonietta-porn.txt"
+          ]
+        },
+        {
+          "id": "stevenblack-porn",
+          "name": "StevenBlack Extension – Porn",
+          "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
+          "status": "ok",
+          "entries": 76810,
+          "error": "",
+          "files": [
+            "lists/adult/stevenblack-porn.txt"
+          ]
+        },
+        {
+          "id": "chadmayfield-porn",
+          "name": "chadmayfield Porn Top 1M",
+          "url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
+          "status": "ok",
+          "entries": 11868,
+          "error": "",
+          "files": [
+            "lists/adult/chadmayfield-porn.txt"
+          ]
+        },
+        {
+          "id": "shadowwhisperer-adult",
+          "name": "ShadowWhisperer Adult",
+          "url": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult",
+          "status": "ok",
+          "entries": 213982,
+          "error": "",
+          "files": [
+            "lists/adult/shadowwhisperer-adult.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-porn",
+          "name": "The Block List Project – Porn",
+          "url": "https://blocklistproject.github.io/Lists/porn.txt",
+          "status": "ok",
+          "entries": 953393,
+          "error": "",
+          "files": [
+            "lists/adult/blocklistproject-porn.txt"
+          ]
+        }
+      ]
+    },
+    "gambling": {
+      "title": "Glücksspiel",
+      "entries": 721223,
+      "files": [
+        "combined/gambling.txt",
+        "combined/gambling.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "hagezi-gambling",
+          "name": "HaGeZi Gambling",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt",
+          "status": "ok",
+          "entries": 698491,
+          "error": "",
+          "files": [
+            "lists/gambling/hagezi-gambling.txt"
+          ]
+        },
+        {
+          "id": "sinfonietta-gambling",
+          "name": "Sinfonietta gambling-hosts",
+          "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts",
+          "status": "ok",
+          "entries": 2690,
+          "error": "",
+          "files": [
+            "lists/gambling/sinfonietta-gambling.txt"
+          ]
+        },
+        {
+          "id": "stevenblack-gambling",
+          "name": "StevenBlack Extension – Gambling",
+          "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
+          "status": "ok",
+          "entries": 6744,
+          "error": "",
+          "files": [
+            "lists/gambling/stevenblack-gambling.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-gambling",
+          "name": "The Block List Project – Gambling",
+          "url": "https://blocklistproject.github.io/Lists/gambling.txt",
+          "status": "ok",
+          "entries": 342623,
+          "error": "",
+          "files": [
+            "lists/gambling/blocklistproject-gambling.txt"
+          ]
+        }
+      ]
+    },
+    "social": {
+      "title": "Social Media",
+      "entries": 35810,
+      "files": [
+        "combined/social.txt",
+        "combined/social.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "hagezi-social",
+          "name": "HaGeZi Social Networks",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/social.txt",
+          "status": "ok",
+          "entries": 8247,
+          "error": "",
+          "files": [
+            "lists/social/hagezi-social.txt"
+          ]
+        },
+        {
+          "id": "sinfonietta-social",
+          "name": "Sinfonietta social-hosts",
+          "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts",
+          "status": "ok",
+          "entries": 3808,
+          "error": "",
+          "files": [
+            "lists/social/sinfonietta-social.txt"
+          ]
+        },
+        {
+          "id": "stevenblack-social",
+          "name": "StevenBlack Extension – Social",
+          "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts",
+          "status": "ok",
+          "entries": 3808,
+          "error": "",
+          "files": [
+            "lists/social/stevenblack-social.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-facebook",
+          "name": "The Block List Project – Facebook",
+          "url": "https://blocklistproject.github.io/Lists/facebook.txt",
+          "status": "ok",
+          "entries": 22362,
+          "error": "",
+          "files": [
+            "lists/social/blocklistproject-facebook.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-tiktok",
+          "name": "The Block List Project – TikTok",
+          "url": "https://blocklistproject.github.io/Lists/tiktok.txt",
+          "status": "ok",
+          "entries": 3725,
+          "error": "",
+          "files": [
+            "lists/social/blocklistproject-tiktok.txt"
+          ]
+        }
+      ]
+    },
+    "fakenews": {
+      "title": "Fake News",
+      "entries": 2194,
+      "files": [
+        "combined/fakenews.txt",
+        "combined/fakenews.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "stevenblack-fakenews",
+          "name": "StevenBlack Extension – Fakenews",
+          "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts",
+          "status": "ok",
+          "entries": 2187,
+          "error": "",
+          "files": [
+            "lists/fakenews/stevenblack-fakenews.txt"
+          ]
+        },
+        {
+          "id": "marktron-fakenews",
+          "name": "marktron fakenews",
+          "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
+          "status": "ok",
+          "entries": 2194,
+          "error": "",
+          "files": [
+            "lists/fakenews/marktron-fakenews.txt"
+          ]
+        }
+      ]
+    },
+    "piracy": {
+      "title": "Piraterie & Torrents",
+      "entries": 66715,
+      "files": [
+        "combined/piracy.txt",
+        "combined/piracy.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "hagezi-anti-piracy",
+          "name": "HaGeZi Anti-Piracy",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt",
+          "status": "ok",
+          "entries": 63691,
+          "error": "",
+          "files": [
+            "lists/piracy/hagezi-anti-piracy.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-piracy",
+          "name": "The Block List Project – Piracy",
+          "url": "https://blocklistproject.github.io/Lists/piracy.txt",
+          "status": "ok",
+          "entries": 2154,
+          "error": "",
+          "files": [
+            "lists/piracy/blocklistproject-piracy.txt"
+          ]
+        },
+        {
+          "id": "blocklistproject-torrent",
+          "name": "The Block List Project – Torrent",
+          "url": "https://blocklistproject.github.io/Lists/torrent.txt",
+          "status": "ok",
+          "entries": 2620,
+          "error": "",
+          "files": [
+            "lists/piracy/blocklistproject-torrent.txt"
+          ]
+        }
+      ]
+    },
+    "bypass": {
+      "title": "DoH / VPN / Proxy-Bypass",
+      "entries": 17144,
+      "files": [
+        "combined/bypass.txt",
+        "combined/bypass.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "hagezi-doh-vpn-proxy",
+          "name": "HaGeZi DoH/VPN/TOR/Proxy Bypass",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt",
+          "status": "ok",
+          "entries": 16708,
+          "error": "",
+          "files": [
+            "lists/bypass/hagezi-doh-vpn-proxy.txt"
+          ]
+        },
+        {
+          "id": "hagezi-doh",
+          "name": "HaGeZi Encrypted DNS Servers",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt",
+          "status": "ok",
+          "entries": 3571,
+          "error": "",
+          "files": [
+            "lists/bypass/hagezi-doh.txt"
+          ]
+        },
+        {
+          "id": "dibdot-doh",
+          "name": "dibdot DoH Domains",
+          "url": "https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt",
+          "status": "ok",
+          "entries": 1424,
+          "error": "",
+          "files": [
+            "lists/bypass/dibdot-doh.txt"
+          ]
+        }
+      ]
+    },
+    "multi": {
+      "title": "All-in-One",
+      "entries": 731351,
+      "files": [
+        "combined/multi.txt",
+        "combined/multi.adblock.txt"
+      ],
+      "sources": [
+        {
+          "id": "stevenblack-unified",
+          "name": "StevenBlack Unified Hosts",
+          "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+          "status": "ok",
+          "entries": 76103,
+          "error": "",
+          "files": [
+            "lists/multi/stevenblack-unified.txt"
+          ]
+        },
+        {
+          "id": "oisd-big",
+          "name": "OISD Big",
+          "url": "https://big.oisd.nl/domainswild",
+          "status": "ok",
+          "entries": 224162,
+          "error": "",
+          "files": [
+            "lists/multi/oisd-big.txt"
+          ]
+        },
+        {
+          "id": "hagezi-pro",
+          "name": "HaGeZi Multi PRO",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt",
+          "status": "ok",
+          "entries": 244976,
+          "error": "",
+          "files": [
+            "lists/multi/hagezi-pro.txt"
+          ]
+        },
+        {
+          "id": "hagezi-ultimate",
+          "name": "HaGeZi Multi ULTIMATE",
+          "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt",
+          "status": "ok",
+          "entries": 287918,
+          "error": "",
+          "files": [
+            "lists/multi/hagezi-ultimate.txt"
+          ]
+        },
+        {
+          "id": "hblock",
+          "name": "hBlock",
+          "url": "https://hblock.molinero.dev/hosts_domains.txt",
+          "status": "ok",
+          "entries": 485765,
+          "error": "",
+          "files": [
+            "lists/multi/hblock.txt"
+          ]
+        }
+      ]
+    }
+  },
+  "unique_total": 8074345
+}

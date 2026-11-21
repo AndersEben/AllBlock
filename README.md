@@ -9,29 +9,29 @@ Jede Quelle wird normalisiert, dedupliziert und nach Kategorie sortiert.
 - **Automatisch aktualisiert:** GitHub Actions baut die Listen zweimal täglich neu
 
 > 📊 Eine aktuelle Übersicht mit Eintragszahlen, Status und Links zu **allen Einzellisten** steht im
-> [README des `lists`-Branches](https://github.com/AndersEben/AllBlock/blob/lists/README.md).
+> [STATUS.md](STATUS.md).
 
 ## Gesamtlisten pro Kategorie
 
 | Kategorie | ID | Inhalt | Quellen | Download |
 |---|---|---|---:|---|
-| **Werbung** | `ads` | Werbe-Server, Ad-Networks, Pop-ups, mobile Werbung | 18 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/ads.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/ads.adblock.txt) |
-| **Tracking & Telemetrie** | `tracking` | Tracker, Analytics, Session-Replay, Telemetrie von Geräten und Betriebssystemen | 24 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/tracking.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/tracking.adblock.txt) |
-| **Malware & Threat Intelligence** | `malware` | Malware-Verteilung, C2-Server, Ransomware, Stalkerware, Malvertising | 12 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/malware.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/malware.adblock.txt) |
-| **Phishing** | `phishing` | Phishing-Seiten und Credential-Harvesting | 5 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/phishing.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/phishing.adblock.txt) |
-| **Scam & Betrug** | `scam` | Fake-Shops, Betrugsseiten, Spam, Redirect-Fallen | 8 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/scam.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/scam.adblock.txt) |
-| **Cryptomining** | `cryptomining` | Browser-Miner und Cryptojacking | 3 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/cryptomining.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/cryptomining.adblock.txt) |
-| **Erwachseneninhalte** | `adult` | Pornografie und NSFW-Inhalte | 7 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/adult.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/adult.adblock.txt) |
-| **Glücksspiel** | `gambling` | Online-Casinos, Sportwetten | 4 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/gambling.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/gambling.adblock.txt) |
-| **Social Media** | `social` | Soziale Netzwerke (Facebook, Instagram, TikTok, X, …) | 5 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/social.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/social.adblock.txt) |
-| **Fake News** | `fakenews` | Bekannte Desinformationsseiten | 2 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/fakenews.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/fakenews.adblock.txt) |
-| **Piraterie & Torrents** | `piracy` | Warez-, Streaming- und Torrent-Seiten | 3 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/piracy.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/piracy.adblock.txt) |
-| **DoH / VPN / Proxy-Bypass** | `bypass` | Verhindert, dass Geräte den DNS-Filter über DoH, VPN oder Proxys umgehen | 3 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/bypass.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/bypass.adblock.txt) |
-| **All-in-One** | `multi` | Große kuratierte Kombilisten (Werbung, Tracking, Malware) | 5 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/multi.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/combined/multi.adblock.txt) |
+| **Werbung** | `ads` | Werbe-Server, Ad-Networks, Pop-ups, mobile Werbung | 18 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/ads.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/ads.adblock.txt) |
+| **Tracking & Telemetrie** | `tracking` | Tracker, Analytics, Session-Replay, Telemetrie von Geräten und Betriebssystemen | 24 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/tracking.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/tracking.adblock.txt) |
+| **Malware & Threat Intelligence** | `malware` | Malware-Verteilung, C2-Server, Ransomware, Stalkerware, Malvertising | 12 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/malware.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/malware.adblock.txt) |
+| **Phishing** | `phishing` | Phishing-Seiten und Credential-Harvesting | 5 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/phishing.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/phishing.adblock.txt) |
+| **Scam & Betrug** | `scam` | Fake-Shops, Betrugsseiten, Spam, Redirect-Fallen | 8 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/scam.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/scam.adblock.txt) |
+| **Cryptomining** | `cryptomining` | Browser-Miner und Cryptojacking | 3 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/cryptomining.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/cryptomining.adblock.txt) |
+| **Erwachseneninhalte** | `adult` | Pornografie und NSFW-Inhalte | 7 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/adult.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/adult.adblock.txt) |
+| **Glücksspiel** | `gambling` | Online-Casinos, Sportwetten | 4 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/gambling.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/gambling.adblock.txt) |
+| **Social Media** | `social` | Soziale Netzwerke (Facebook, Instagram, TikTok, X, …) | 5 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/social.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/social.adblock.txt) |
+| **Fake News** | `fakenews` | Bekannte Desinformationsseiten | 2 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/fakenews.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/fakenews.adblock.txt) |
+| **Piraterie & Torrents** | `piracy` | Warez-, Streaming- und Torrent-Seiten | 3 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.adblock.txt) |
+| **DoH / VPN / Proxy-Bypass** | `bypass` | Verhindert, dass Geräte den DNS-Filter über DoH, VPN oder Proxys umgehen | 3 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.adblock.txt) |
+| **All-in-One** | `multi` | Große kuratierte Kombilisten (Werbung, Tracking, Malware) | 5 | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.adblock.txt) |
 
 Einzellisten liegen unter
-`https://raw.githubusercontent.com/AndersEben/AllBlock/lists/lists/<kategorie>/<id>.txt`,
-zum Beispiel [`lists/multi/hagezi-pro.txt`](https://raw.githubusercontent.com/AndersEben/AllBlock/lists/lists/multi/hagezi-pro.txt).
+`https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/<kategorie>/<id>.txt`,
+zum Beispiel [`lists/multi/hagezi-pro.txt`](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-pro.txt).
 
 ### Größenordnung (Stand 21.11.2026)
 
@@ -70,26 +70,26 @@ ist deshalb `.adblock.txt` die beste Wahl.
 ## Wie es funktioniert
 
 ```
-sources.toml ──► scripts/build.py ──► public/
+sources.toml ──► scripts/build.py ──► Repository (main)
                  │ Download (parallel, 3 Versuche)       ├─ lists/<kategorie>/<id>.txt
                  │ Formaterkennung: hosts / Domains /    ├─ combined/<kategorie>.txt
                  │   Adblock / Wildcard / URLs / dnsmasq ├─ combined/<kategorie>.adblock.txt
                  │ Normalisierung + Validierung          ├─ stats.json
-                 │ Ausnahmen (@@) & allowlist.txt        └─ README.md
+                 │ Ausnahmen (@@) & allowlist.txt        └─ STATUS.md
                  └ Deduplizierung
 ```
 
 - **Ausfallsicherheit:** Ist eine Quelle nicht erreichbar oder liefert sie plötzlich weniger als 50 % der
   bisherigen Einträge, wird die zuletzt erfolgreich gebaute Version weiterverwendet. Im
-  [Status-README](https://github.com/AndersEben/AllBlock/blob/lists/README.md) ist sie dann mit ⚠️ markiert.
-- **Kein aufgeblähtes Repo:** Die generierten Listen werden auf den Branch `lists` ohne Historie
-  force-gepusht. `main` enthält nur Code und Konfiguration.
+  [STATUS.md](STATUS.md) ist sie dann mit ⚠️ markiert.
+- **Alles im Repo:** Die generierten Listen liegen direkt in [`combined/`](combined) und [`lists/`](lists)
+  auf `main` und werden vom Workflow automatisch committet, sobald sich etwas ändert.
 - **GitHub-Dateilimit:** Dateien über 95 MB werden automatisch in `*.part1.txt`, `*.part2.txt`, … aufgeteilt.
 
 ### Lokal bauen
 
 ```bash
-python scripts/build.py              # alle Kategorien → ./public
+python scripts/build.py              # alle Kategorien → combined/ und lists/
 python scripts/build.py --only ads   # nur bestimmte Kategorien
 ```
 

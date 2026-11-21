@@ -1,0 +1,42 @@
+# Title: AllBlock – Disconnect.me Tracking
+# Description: Tracking & Telemetrie – normalisierte Kopie von https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# Last modified: 2026-11-21 21:48 UTC
+# Entries: 34
+# Homepage: https://github.com/AndersEben/AllBlock
+# Sources:
+#   - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+#
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+bango.net
+basic-check.disconnect.me
+bkrtx.com
+bluekai.com
+bugsense.com
+burstly.com
+chartboost.com
+count.ly
+crashlytics.com
+crittercism.com
+custom-blacklisted-tracking-example.com
+do-not-tracker.org
+eviltracker.net
+flurry.com
+getexceptional.com
+inmobi.com
+jumptap.com
+localytics.com
+mixpanel.com
+mobile-collector.newrelic.com
+mobileapptracking.com
+playtomic.com
+stathat.com
+supercell.net
+tapjoy.com
+trackersimulator.org
+usergrid.com
+vungle.com

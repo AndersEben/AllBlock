@@ -26,32 +26,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Vorherige Listen holen – dienen als Fallback, falls eine Quelle ausfällt
-      - name: Checkout previous lists
-        uses: actions/checkout@v4
-        continue-on-error: true
-        with:
-          ref: lists
-          path: public
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      # Die bereits eingecheckten Listen dienen als Fallback, falls eine Quelle ausfällt.
       - name: Build
-        run: python scripts/build.py --out public --repo "${{ github.repository }}" --branch lists
+        run: python scripts/build.py --out . --repo "${{ github.repository }}" --branch main
 
-      # Listen auf einem verwaisten Branch ohne Historie veröffentlichen,
-      # damit das Repository nicht mit jeder Aktualisierung um hunderte MB wächst.
-      - name: Publish to lists branch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit updated lists
         run: |
-          cd public
-          rm -rf .git
-          git init -q -b lists
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add -A combined lists stats.json STATUS.md
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+            exit 0
+          fi
           git commit -q -m "Update lists $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" lists
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main

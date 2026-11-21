@@ -8,7 +8,7 @@ dedupliziert und schreibt:
   <out>/combined/<kategorie>.txt          Gesamtliste der Kategorie (Domains)
   <out>/combined/<kategorie>.adblock.txt  Gesamtliste der Kategorie (||domain^)
   <out>/stats.json                        Statistik + Status jeder Quelle
-  <out>/README.md                         Übersicht mit Links und Zählern
+  <out>/STATUS.md                         Übersicht mit Links und Zählern
 
 Schlägt der Download einer Quelle fehl (oder liefert sie weniger als die
 Hälfte der vorherigen Einträge), wird die zuletzt erfolgreich gebaute
@@ -265,9 +265,9 @@ def fmt_size(n: int) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--config", default=str(ROOT / "sources.toml"))
-    ap.add_argument("--out", default=str(ROOT / "public"))
+    ap.add_argument("--out", default=str(ROOT))
     ap.add_argument("--repo", default=os.environ.get("GITHUB_REPOSITORY", "AndersEben/AllBlock"))
-    ap.add_argument("--branch", default="lists", help="Branch, auf dem die Listen veröffentlicht werden")
+    ap.add_argument("--branch", default="main", help="Branch, auf dem die Listen veröffentlicht werden")
     ap.add_argument("--only", nargs="*", help="Nur diese Kategorien bauen")
     ap.add_argument("--workers", type=int, default=12)
     args = ap.parse_args()
@@ -369,12 +369,12 @@ def main() -> int:
     stale = sum(s.status == "stale" for s in sources)
     failed = sum(s.status == "failed" for s in sources)
     readme = "\n".join([
-        "# AllBlock – generierte Listen",
+        "# AllBlock – Status der Listen",
         "",
         f"Stand: **{stats['generated']}** · {len(sources)} Quellen ({ok} ✅ · {stale} ⚠️ veraltet · {failed} ❌) · "
         f"**{len(grand_total):,}** eindeutige Domains insgesamt",
         "",
-        f"Dieser Branch wird automatisch erzeugt. Quellcode & Doku: https://github.com/{args.repo}",
+        f"Diese Datei wird automatisch erzeugt. Projekt & Doku: https://github.com/{args.repo}",
         "",
         "## Gesamtlisten pro Kategorie",
         "",
@@ -386,7 +386,7 @@ def main() -> int:
         "",
         *readme_details,
     ])
-    write(out / "README.md", readme)
+    write(out / "STATUS.md", readme)
 
     print(f"\nFertig: {ok} ok, {stale} veraltet, {failed} fehlgeschlagen – {len(grand_total):,} eindeutige Domains.")
     for cat, cs in stats["categories"].items():
