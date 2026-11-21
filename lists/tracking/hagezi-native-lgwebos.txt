@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Native Tracker – LG webOS
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.lgwebos.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:52 UTC
 # Entries: 461
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

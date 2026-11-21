@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Anti-Piracy
 # Description: Piraterie & Torrents – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 63691
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

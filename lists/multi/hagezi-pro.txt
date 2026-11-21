@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Multi PRO
 # Description: All-in-One – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 244976
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

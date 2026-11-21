@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Encrypted DNS Servers
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 3571
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

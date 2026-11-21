@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Gambling
 # Description: Glücksspiel – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 698491
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

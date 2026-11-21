@@ -1,6 +1,6 @@
 # Title: AllBlock – dibdot DoH Domains
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 1424
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,6 +1,6 @@
 ! Title: AllBlock – Social Media
 ! Description: Soziale Netzwerke (Facebook, Instagram, TikTok, X, …)
-! Last modified: 2026-11-21 21:48 UTC
+! Last modified: 2026-11-21 21:53 UTC
 ! Entries: 35810
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:

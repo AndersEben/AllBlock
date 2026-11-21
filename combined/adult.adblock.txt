@@ -1,6 +1,6 @@
 ! Title: AllBlock – Erwachseneninhalte
 ! Description: Pornografie und NSFW-Inhalte
-! Last modified: 2026-11-21 21:48 UTC
+! Last modified: 2026-11-21 21:53 UTC
 ! Entries: 1183766
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:

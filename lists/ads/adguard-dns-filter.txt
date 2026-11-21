@@ -1,6 +1,6 @@
 # Title: AllBlock – AdGuard DNS filter
 # Description: Werbung – normalisierte Kopie von https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:52 UTC
 # Entries: 191256
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

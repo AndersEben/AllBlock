@@ -1,6 +1,6 @@
 ! Title: AllBlock – Phishing
 ! Description: Phishing-Seiten und Credential-Harvesting
-! Last modified: 2026-11-21 21:48 UTC
+! Last modified: 2026-11-21 21:53 UTC
 ! Entries: 730818
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:

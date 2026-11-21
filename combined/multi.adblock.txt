@@ -1,6 +1,6 @@
 ! Title: AllBlock – All-in-One
 ! Description: Große kuratierte Kombi-Listen (Werbung + Tracking + Malware)
-! Last modified: 2026-11-21 21:49 UTC
+! Last modified: 2026-11-21 21:53 UTC
 ! Entries: 731351
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:

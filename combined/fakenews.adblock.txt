@@ -1,6 +1,6 @@
 ! Title: AllBlock – Fake News
 ! Description: Bekannte Desinformations- und Fake-News-Seiten
-! Last modified: 2026-11-21 21:48 UTC
+! Last modified: 2026-11-21 21:53 UTC
 ! Entries: 2194
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:

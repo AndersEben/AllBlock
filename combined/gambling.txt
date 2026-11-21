@@ -1,6 +1,6 @@
 # Title: AllBlock – Glücksspiel
 # Description: Online-Casinos, Sportwetten, Glücksspiel
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 721223
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

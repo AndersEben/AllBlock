@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Fake (Fake-Shops, Scam)
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 10745
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

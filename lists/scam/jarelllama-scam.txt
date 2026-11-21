@@ -1,6 +1,6 @@
 # Title: AllBlock – jarelllama Scam Blocklist
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 468729
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

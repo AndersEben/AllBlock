@@ -1,6 +1,6 @@
 # Title: AllBlock – Werbung
 # Description: Werbe-Server, Ad-Networks, Pop-ups, mobile Werbung
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:52 UTC
 # Entries: 996896
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

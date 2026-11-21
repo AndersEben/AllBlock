@@ -1,6 +1,6 @@
 # Title: AllBlock – The Block List Project – Torrent
 # Description: Piraterie & Torrents – normalisierte Kopie von https://blocklistproject.github.io/Lists/torrent.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 2620
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

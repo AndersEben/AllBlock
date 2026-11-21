@@ -1,6 +1,6 @@
 # Title: AllBlock – The Block List Project – TikTok
 # Description: Social Media – normalisierte Kopie von https://blocklistproject.github.io/Lists/tiktok.txt
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 3725
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

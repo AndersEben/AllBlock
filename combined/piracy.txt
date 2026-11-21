@@ -1,6 +1,6 @@
 # Title: AllBlock – Piraterie & Torrents
 # Description: Warez-, Streaming- und Torrent-Seiten
-# Last modified: 2026-11-21 21:48 UTC
+# Last modified: 2026-11-21 21:53 UTC
 # Entries: 66715
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

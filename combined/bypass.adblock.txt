@@ -1,6 +1,6 @@
 ! Title: AllBlock – DoH / VPN / Proxy-Bypass
 ! Description: Verhindert das Umgehen des DNS-Filters über DoH-Resolver, VPNs, Proxies
-! Last modified: 2026-11-21 21:48 UTC
+! Last modified: 2026-11-21 21:53 UTC
 ! Entries: 17144
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:

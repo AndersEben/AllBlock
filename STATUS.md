@@ -1,6 +1,6 @@
 # AllBlock – Status der Listen
 
-Stand: **2026-11-21T21:48:30+00:00** · 99 Quellen (99 ✅ · 0 ⚠️ veraltet · 0 ❌) · **8,074,345** eindeutige Domains insgesamt
+Stand: **2026-11-21T21:52:49+00:00** · 99 Quellen (99 ✅ · 0 ⚠️ veraltet · 0 ❌) · **8,074,345** eindeutige Domains insgesamt
 
 Diese Datei wird automatisch erzeugt. Projekt & Doku: https://github.com/AndersEben/AllBlock
 
