@@ -1,6 +1,6 @@
 # Title: AllBlock – hBlock
 # Description: All-in-One – normalisierte Kopie von https://hblock.molinero.dev/hosts_domains.txt
-# Last modified: 2026-11-22 11:29 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 485383
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

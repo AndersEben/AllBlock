@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi DoH/VPN/TOR/Proxy Bypass
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt
-# Last modified: 2026-11-22 11:29 UTC
-# Entries: 16727
+# Last modified: 2026-11-22 18:52 UTC
+# Entries: 16720
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt
@@ -4836,7 +4836,6 @@ dns.fxdc.ru
 dns.gamban.com
 dns.garymarek.me
 dns.gayanalysing.co.uk
-dns.gearworks.app
 dns.geohide.ru
 dns.ghost.pm
 dns.gi.co.id
@@ -8477,7 +8476,6 @@ hotspotshield.com
 hotspotvpn.com
 hotvpn.help
 hotvpn.info
-hours.newlifesanctuarychurch.com
 houwangjiasu.com
 hoverfc.com
 how.learn.harimurti.web.id
@@ -9673,7 +9671,6 @@ kuailian-apps.com
 kuailian-cn.com
 kuailian-coc.com.cn
 kuailian-dlxz.com.cn
-kuailian-hk.com
 kuailian-it.com
 kuailian-k.com
 kuailian-ki.com
@@ -11743,7 +11740,6 @@ petinom.online
 petros-es.co.uk
 pezishka.com
 pf2oxqgk.com
-pfckhora.com
 pfypikij.com
 pgglrz85.com
 pgwwr.cn
@@ -11999,7 +11995,6 @@ ppy01-kpnqmc7x.top
 ppy02-9tg585ql.top
 pq7hdf.com
 pqh.ddns.net
-pqmrbzwq.com
 pqov.top
 pr0xy.com
 prairievistamiddle.org
@@ -14485,7 +14480,6 @@ tuandns.duckdns.org
 tubeprox.com
 tubevpn.help
 tudat1001.duckdns.org
-tuffled-getit-pleaselaugh.newlifesanctuarychurch.com
 tuffmango.edu.showmyhomes.com
 tujenasnaszato.xyz
 tukinos.ru
@@ -16725,7 +16719,6 @@ zwskk3lczgjwug3hzpd.online
 zwyr157wwiu6eior.com
 zwytzjjz.com
 zxcvb.pp.ua
-zxtwpkso.com
 zylor.xyz
 zymorae.ru
 zymverto.ru

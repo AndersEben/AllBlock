@@ -1,7 +1,7 @@
 # Title: AllBlock – Tracking & Telemetrie
 # Description: Tracker, Analytics, Session-Replay, Geräte-/Betriebssystem-Telemetrie
-# Last modified: 2026-11-22 11:28 UTC
-# Entries: 378848
+# Last modified: 2026-11-22 18:52 UTC
+# Entries: 378857
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - EasyPrivacy (Firebog) (https://v.firebog.net/hosts/Easyprivacy.txt)
@@ -3132,6 +3132,7 @@
 3rln25xki1v55n015dyppl5h464cat13iw39zqe8.duckdns.org
 3rosebud.duckdns.org
 3rphd.iad1.qualtrics.com
+3s.next.eulerian.com
 3s.sreanalyze.com
 3sdgen.duckdns.org
 3sdm.duckdns.org
@@ -3266,6 +3267,7 @@
 4280647933.gco.mail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 4283519576.belvini.de
 428456.com.civicscience.com
+428789396344161.mateti.net
 42a.duckdns.org
 42birk.duckdns.org
 42dukgt7pv-p1jjxy7n82heh.flosight.duckdns.org
@@ -8172,6 +8174,7 @@ a8.zzz-land.com
 a802.xn--38jf6c4pa86a1dv833cexrb.com
 a803.xn--38jf6c4pa86a1dv833cexrb.com
 a83trk.com
+a856e4fc.eulerian.io
 a863.actonsoftware.com
 a8642.actonsoftware.com
 a869.mercurynews.com
@@ -11551,7 +11554,6 @@ adbutter.net
 adc-js.nine.com.au
 adc-srv.net
 adc.ohmynews.com
-adc.xxxlshop.de
 adc3-launch.adcolony.com
 adcalls.nl
 adcash.com
@@ -12431,6 +12433,7 @@ adobebo.duckdns.org
 adobecloud.duckdns.org
 adobecorp.hb.omtrdc.net
 adobeday.relacionamento.cogna.com.br
+adobedc.demdex.net
 adobedc.net
 adobedtm.com
 adobeedge.morganstanley.com
@@ -49415,6 +49418,7 @@ bulk.api.sandbox.bingads.microsoft.com
 bulk.lazayn.com
 bulk.ninjawrecks.me
 bulkbookstore.actonservice.com
+bulkmail.acadian-asset.com
 bull-nielsen.duckdns.org
 bull.tradingfreaks.com
 bulldogdenote.duckdns.org
@@ -50576,7 +50580,6 @@ c.wired.com
 c.wort-suche.com
 c.xbox.com
 c.za.msn.com
-c0011.boursorama.com
 c0012.brsimg.com
 c001828044.duckdns.org
 c01-info-lgsmartad-com.aws-prd.net
@@ -64786,7 +64789,6 @@ contact.payprocorp.com
 contact.pumpone.com
 contact.regus.com
 contact.rev.ai
-contact.riseinteractive.com
 contact.samsungsds.com
 contact.spacesworks.com
 contact.tphco.com
@@ -64910,7 +64912,6 @@ content.championships.aeltc-email.com
 content.citadele.lv
 content.citbankapp.cit.com
 content.citizensbankonline.com
-content.claris.com
 content.clubpremier.com
 content.cnhas.duckdns.org
 content.cofidis.pt
@@ -85224,6 +85225,7 @@ data.marketing-promos.bluerewards.ca
 data.marketing.7eleven.com.au
 data.marketing.adobedemosystem.com
 data.marketing.aeptest.a.intuit.com
+data.marketing.att.com
 data.marketing.autopass.com.br
 data.marketing.bancobmg.com.br
 data.marketing.benavides.com.mx
@@ -85832,6 +85834,7 @@ data.qaegift.giftcards.com
 data.qamailing.mcafee.com
 data.qamarketing.giftcards.com
 data.qirei.com
+data.qrgroup.qatarairways.com
 data.qseek.org
 data.quadthera.us
 data.queryly.com
@@ -96576,6 +96579,7 @@ ecdn08.eulerian.net
 ecdn09.eulerian.net
 ecdn10.eulerian.net
 ecdn11.eulerian.net
+ecdn12.eulerian.net
 ecdn13.eulerian.net
 ecdn14.eulerian.net
 ecdn15.eulerian.net
@@ -102159,7 +102163,6 @@ eulerian.eveiletjeux.com
 eulerian.fr
 eulerian.homebox-suisse.ch
 eulerian.look-voyages.fr
-eulerian.love2recycle.fr
 eulerian.maison-facile.com
 eulerian.malakoffmederic.com
 eulerian.mathon.fr
@@ -109567,7 +109570,6 @@ fpc.rlb.dk
 fpc.sage.com
 fpc.sg2.com
 fpc.singleplatform.com
-fpc.spurs.com
 fpc.trimarkusa.com
 fpc.utexas.edu
 fpcdallasstars.nhl.com
@@ -111551,7 +111553,6 @@ fvzva.frankandeileen.com
 fvzztntdsg.duckdns.org
 fw-am5.criteo.com
 fw-cdn.com
-fw-par.criteo.com
 fw-quarantine1.qualtrics.com
 fw.athddns.duckdns.org
 fw.f.360.cn
@@ -120255,6 +120256,7 @@ go.priviahealth.com
 go.proctorgallagher.com
 go.prodapp.sharekey.com
 go.promedia.nl
+go.promodel.com
 go.protools.emerson.com
 go.psentertainment.com
 go.ptglab.com
@@ -136293,6 +136295,7 @@ hmgvcywkdp.duckdns.org
 hmgw.duckdns.org
 hmh.duckdns.org
 hmhbmuvwgh.duckdns.org
+hmhco.com.102.112.2o7.net
 hmhn.duckdns.org
 hmhzr.murad.com
 hmi.dchalsvik.duckdns.org
@@ -148796,6 +148799,7 @@ jcmel05.duckdns.org
 jcmfryafib.duckdns.org
 jcmgd.skullcandy.com
 jcmhobnzlg.duckdns.org
+jcmm.service-public.fr
 jcmm.service-public.gouv.fr
 jcmoldes.duckdns.org
 jcmolpegon.duckdns.org
@@ -171648,7 +171652,6 @@ login-your-account.duckdns.org
 login.360.cn
 login.ads.roku.com
 login.ads.staging.roku.com
-login.affial.com
 login.avitalx.ro
 login.cambiandotuvida92.site
 login.civicscience.com
@@ -217221,7 +217224,6 @@ ncmaster.duckdns.org
 ncmastergeek.duckdns.org
 ncmcircle.duckdns.org
 ncmd.duckdns.org
-ncmec.tt.omtrdc.net
 ncmliuuxbg.duckdns.org
 ncngtsemze.duckdns.org
 ncniswonger.duckdns.org
@@ -217269,6 +217271,7 @@ ncrode.duckdns.org
 ncsailfishes.duckdns.org
 ncsbn.qualtrics.com
 ncsc2.iad1.qualtrics.com
+ncsecu.tt.omtrdc.net
 ncsecureverify.duckdns.org
 ncsm-home.duckdns.org
 ncspfslfxe.duckdns.org
@@ -224663,7 +224666,6 @@ obm85.aoscufe.com
 obm86.aoscufe.com
 obm87.aoscufe.com
 obm88.aoscufe.com
-obm89.aoscufe.com
 obm9.aosag.net
 obm9.aoscufe.com
 obm90.aoscufe.com
@@ -224816,6 +224818,7 @@ obmmx219.aoscufe.com
 obmmx22.aoscufe.com
 obmmx220.aoscufe.com
 obmmx221.aoscufe.com
+obmmx222.aoscufe.com
 obmmx223.aoscufe.com
 obmmx224.aoscufe.com
 obmmx225.aoscufe.com
@@ -227953,6 +227956,7 @@ onfiei-twtw.wcohus.teradatadmc.com
 onfiei-twtwei.uscluster.net
 onfiei-twtwei.wcohus.teradatadmc.com
 onfiei-twtwfi.uscluster.net
+onfiei-twtwfi.wcohus.teradatadmc.com
 onfiei-twtwfo.uscluster.net
 onfiei-twtwfo.wcohus.teradatadmc.com
 onfiei-twtwni.uscluster.net
@@ -229194,6 +229198,7 @@ onfosi-onzetw.n.teradatadmc.com
 onfosi-onzeze.cncluster.net
 onfosi-onzeze.n.teradatadmc.com
 onfosi-twfifo.cncluster.net
+onfosi-twfifo.n.teradatadmc.com
 onfosi-twfion.cncluster.net
 onfosi-twfion.n.teradatadmc.com
 onfosi-twfith.cncluster.net
@@ -246618,7 +246623,6 @@ pp-co02.jp2.as.criteo.net
 pp-co02.nl3.eu.criteo.net
 pp-co02.sg1.as.criteo.net
 pp-co02.us5.us.criteo.net
-pp-re01.jp2.as.criteo.net
 pp-re01.sg1.as.criteo.net
 pp-re02.jp2.as.criteo.net
 pp-re02.sg1.as.criteo.net
@@ -246627,7 +246631,6 @@ pp-stats.up.railway.app
 pp-ta01.jp2.as.criteo.net
 pp-ta01.sg1.as.criteo.net
 pp-ta02.jp2.as.criteo.net
-pp-ta02.sg1.as.criteo.net
 pp-za01.da1.us.criteo.net
 pp-za01.fr3.eu.criteo.net
 pp-za01.nl3.eu.criteo.net
@@ -249335,7 +249338,6 @@ puma-api.ptqy.gitv.tv
 puma.112.2o7.net
 puma.islingtonmecc.org.uk
 puma.ugc.bazaarvoice.com
-puma01.webtrekk.net
 pumajapan.ugc.bazaarvoice.com
 pumbanet.duckdns.org
 pumbas.duckdns.org
@@ -262010,7 +262012,6 @@ s4.parkeren-maastricht.nl
 s4.parkeren-utrecht.nl
 s4.parkerenarnhem.nl
 s4.parkerenindestad.nl
-s4.rotterdamparkeren.nl
 s4.trafficmaxx.de
 s4001.pingdom.com
 s4002.pingdom.com
@@ -263071,6 +263072,7 @@ saftmich.duckdns.org
 sag5nas.duckdns.org
 saga-home.duckdns.org
 saga.duckdns.org
+sagagrouplimitedsaga.tt.omtrdc.net
 sagakxaulc.duckdns.org
 sagarmatha.duckdns.org
 sagarminaga-home.duckdns.org
@@ -266679,6 +266681,7 @@ secure.grog.duckdns.org
 secure.group-dataintelligence.com
 secure.grow1maid.com
 secure.haag0some.com
+secure.hadar.org
 secure.haig7anax.com
 secure.half1hell.com
 secure.halfy.duckdns.org
@@ -276255,7 +276258,9 @@ share.talkit.app
 share.tessie.com
 share.tginfo-proxy.duckdns.org
 share.theladbible.com
+share.tincan.kids
 share.titanvest.com
+share.tonies.com
 share.tops.co.th
 share.tornado.com
 share.tp666.vip
@@ -285441,7 +285446,6 @@ smtp.giddings.bluehornet.com
 smtp.gilabend.bluehornet.com
 smtp.gillam.bluehornet.com
 smtp.gillette.bluehornet.com
-smtp.gilmer.bluehornet.com
 smtp.gisborne.bluehornet.com
 smtp.gladwin.bluehornet.com
 smtp.glasgow.bluehornet.com
@@ -286082,6 +286086,7 @@ smtp.mena.bluehornet.com
 smtp.mendoza.bluehornet.com
 smtp.menominee.bluehornet.com
 smtp.menomonie.bluehornet.com
+smtp.menorca.bluehornet.com
 smtp.merced.bluehornet.com
 smtp.mercury.bluehornet.com
 smtp.meriden.bluehornet.com
@@ -320745,6 +320750,7 @@ taylorlab.duckdns.org
 taylormadegolf.qualtrics.com
 taylorrha.duckdns.org
 taylorshellfish.actonservice.com
+taylorsuni.tt.omtrdc.net
 taylortechhassio.duckdns.org
 taynjksphh.duckdns.org
 taysmith.duckdns.org
@@ -326088,6 +326094,7 @@ to.golfn.app
 to.nextlgsdp.com
 to.quit.guru
 to.skooldio.com
+to.spotify.com
 to.stynt.com
 to.uptime.app
 toa.duckdns.org
@@ -344003,6 +344010,7 @@ visitorshitcounter.com
 visitortracking.com
 visitortracklog.com
 visitping.rossel.be
+visitqatar.tt.omtrdc.net
 visits.jagasantagostino.com
 visits.jagascript.com
 visits.oui.market
@@ -356238,6 +356246,7 @@ weebly.polldaddy.com
 weedpigeon.duckdns.org
 weegbree43.duckdns.org
 weekdeals.co.uk
+weekendesk.eulerian.net
 weekess.duckdns.org
 weekhee.duckdns.org
 weeklycurrents.com

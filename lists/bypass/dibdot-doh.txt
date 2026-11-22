@@ -1,7 +1,7 @@
 # Title: AllBlock – dibdot DoH Domains
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
-# Last modified: 2026-11-22 11:29 UTC
-# Entries: 1423
+# Last modified: 2026-11-22 18:52 UTC
+# Entries: 1422
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
@@ -67,7 +67,6 @@ adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
-adguard.meddy94.de
 adguard.neon0404.space
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -174,7 +173,6 @@ chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
 cleanbrowsing.org
-cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
 cloudbenders.fun
@@ -415,6 +413,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de

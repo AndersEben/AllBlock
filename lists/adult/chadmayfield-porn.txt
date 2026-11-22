@@ -1,6 +1,6 @@
 # Title: AllBlock – chadmayfield Porn Top 1M
 # Description: Erwachseneninhalte – normalisierte Kopie von https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# Last modified: 2026-11-22 11:29 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 11868
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

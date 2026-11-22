@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Social Networks
 # Description: Social Media – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/social.txt
-# Last modified: 2026-11-22 11:29 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 8336
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,6 +1,6 @@
 # Title: AllBlock – EasyPrivacy (Firebog)
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://v.firebog.net/hosts/Easyprivacy.txt
-# Last modified: 2026-11-22 11:28 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 43263
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi Anti-Piracy
 # Description: Piraterie & Torrents – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt
-# Last modified: 2026-11-22 11:29 UTC
-# Entries: 64665
+# Last modified: 2026-11-22 18:52 UTC
+# Entries: 64647
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt
@@ -3370,7 +3370,6 @@ always-sunny-in-philadelphiyz-lordfilm.ru
 alya-koketnichaet-lordfilme.ru
 alya-lordfilm.ru
 alye-serdtsa-lordfilm.ru
-alypum.beer
 amaazonn-lordfilm.ru
 amaazoon-lordfilm.ru
 amaazoon-lordfilms.ru
@@ -8014,9 +8013,6 @@ clueless-lordfilm.sbs
 cmacked.com
 cmert-stalina-lordfilm.ru
 cmovierulz.com
-cmovies-cc.com
-cmovies-online.com
-cmovies.ac
 cmovies.click
 cmovies.co
 cmovies.dev
@@ -13023,7 +13019,6 @@ filmstreaming.com
 filmstreaming.de
 filmstreaming.dk
 filmstreaming.gg
-filmstreaming.hair
 filmstreaming.in
 filmstreaming.info
 filmstreaming.io
@@ -14899,7 +14894,6 @@ futbollibrego.org
 futbollibregol.biz
 futbollibregol.org
 futbollibreperu.org
-futbollibreplay.org
 futbollibres.live
 futbollibres.online
 futbollibretotal.com
@@ -29991,7 +29985,6 @@ lordfilmineep61.icu
 lordfilminf43.icu
 lordfilminferno.lol
 lordfilminfinite.sbs
-lordfilminfinite.top
 lordfilminfrared.top
 lordfilming.cc
 lordfilming.life
@@ -31101,7 +31094,6 @@ lordfilmlegend.lat
 lordfilmlegion.lat
 lordfilmleh.lat
 lordfilmlei.monster
-lordfilmleisure.top
 lordfilmlek.lat
 lordfilmlek.life
 lordfilmlendy.icu
@@ -33143,7 +33135,6 @@ lordfilmprivacy.lat
 lordfilmprize.cfd
 lordfilmprj.lol
 lordfilmpro1.lat
-lordfilmproblem.sbs
 lordfilmprocess.top
 lordfilmproekt.icu
 lordfilmproem.top
@@ -34462,7 +34453,6 @@ lordfilmserial.one
 lordfilmserial.ru
 lordfilmserialcx5.ru
 lordfilmseriall.online
-lordfilmseriallihie.live
 lordfilmseriatim.top
 lordfilmserpo.lat
 lordfilmserved.lol
@@ -43352,7 +43342,6 @@ myflixtv.net
 myflixtv.to
 myflixtv.xyz
 myflixvault.com
-myflixy.site
 myflixy.store
 myflixz.com
 myflixzone.com
@@ -44362,7 +44351,6 @@ nitrogenanime.xyz
 nitrowarez.com
 niulangshan.online
 nixon-iptv.online
-njanjaoksanalordfilm.com
 nje-odni-lordfilm.cfd
 nje-odny-lordfilm.cfd
 njeiromant-lordfilm.cfd
@@ -54974,7 +54962,6 @@ tantifilmi.live
 tantsy-lordfilme.ru
 tanzed.no-ip.info
 taodung.com
-tap4sport.ci
 tapeadsenjoyer.com
 tapeadvertisement.com
 tapeblocker.com
@@ -55007,9 +54994,6 @@ taraftarium24-zeustv10.vip
 taraftarium24.cc
 taraftarium24.ch
 taraftarium24bedava.com
-taraftarium24bjk.com
-taraftarium24bjk10.com
-taraftarium24bjk12.com
 taraftarium24bjk13.com
 taraftarium24bjk14.com
 taraftarium24bjk15.com
@@ -57621,7 +57605,6 @@ torrentrocket.com
 torrentrocket.xyz
 torrentrockstar.xyz
 torrentroot.com
-torrentrpg.com
 torrentru.com
 torrentrue.xyz
 torrentrz.org
@@ -62720,7 +62703,6 @@ x-warez.xyz
 x121.live
 x123movies.co
 x123movies.com
-x123movies.net
 x123movies.to
 x1337x.eu
 x1337x.ws

@@ -1,6 +1,6 @@
 # Title: AllBlock – NoCoin Filter List
 # Description: Cryptomining – normalisierte Kopie von https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# Last modified: 2026-11-22 11:29 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 312
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

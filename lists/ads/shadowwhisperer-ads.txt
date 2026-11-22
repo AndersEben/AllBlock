@@ -1,6 +1,6 @@
 # Title: AllBlock – ShadowWhisperer Ads
 # Description: Werbung – normalisierte Kopie von https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-# Last modified: 2026-11-22 11:28 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 30004
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

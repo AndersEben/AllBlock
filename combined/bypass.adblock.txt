@@ -1,7 +1,7 @@
 ! Title: AllBlock – DoH / VPN / Proxy-Bypass
 ! Description: Verhindert das Umgehen des DNS-Filters über DoH-Resolver, VPNs, Proxies
-! Last modified: 2026-11-22 11:29 UTC
-! Entries: 17160
+! Last modified: 2026-11-22 18:52 UTC
+! Entries: 17152
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:
 !   - HaGeZi DoH/VPN/TOR/Proxy Bypass (https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt)
@@ -3414,7 +3414,6 @@
 ||cloakvpn.com^
 ||cloakyvpn.pro^
 ||closetruth.date^
-||cloud.198.games^
 ||cloud.beerloga.su^
 ||cloud.efreakbnc.net^
 ||cloud.gqwyq.top^
@@ -4933,7 +4932,6 @@
 ||dns.gamban.com^
 ||dns.garymarek.me^
 ||dns.gayanalysing.co.uk^
-||dns.gearworks.app^
 ||dns.geohide.ru^
 ||dns.ghost.pm^
 ||dns.gi.co.id^
@@ -8708,7 +8706,6 @@
 ||hotspotvpn.com^
 ||hotvpn.help^
 ||hotvpn.info^
-||hours.newlifesanctuarychurch.com^
 ||houwangjiasu.com^
 ||hoverfc.com^
 ||how.learn.harimurti.web.id^
@@ -9935,7 +9932,6 @@
 ||kuailian-cn.com^
 ||kuailian-coc.com.cn^
 ||kuailian-dlxz.com.cn^
-||kuailian-hk.com^
 ||kuailian-it.com^
 ||kuailian-k.com^
 ||kuailian-ki.com^
@@ -12060,7 +12056,6 @@
 ||petros-es.co.uk^
 ||pezishka.com^
 ||pf2oxqgk.com^
-||pfckhora.com^
 ||pfypikij.com^
 ||pgglrz85.com^
 ||pgwwr.cn^
@@ -12318,7 +12313,6 @@
 ||ppy02-9tg585ql.top^
 ||pq7hdf.com^
 ||pqh.ddns.net^
-||pqmrbzwq.com^
 ||pqov.top^
 ||pr0xy.com^
 ||prairievistamiddle.org^
@@ -14869,7 +14863,6 @@
 ||tubeprox.com^
 ||tubevpn.help^
 ||tudat1001.duckdns.org^
-||tuffled-getit-pleaselaugh.newlifesanctuarychurch.com^
 ||tuffmango.edu.showmyhomes.com^
 ||tujenasnaszato.xyz^
 ||tukinos.ru^
@@ -17160,7 +17153,6 @@
 ||zwyr157wwiu6eior.com^
 ||zwytzjjz.com^
 ||zxcvb.pp.ua^
-||zxtwpkso.com^
 ||zylor.xyz^
 ||zymorae.ru^
 ||zymverto.ru^

@@ -1,7 +1,7 @@
 ! Title: AllBlock – Piraterie & Torrents
 ! Description: Warez-, Streaming- und Torrent-Seiten
-! Last modified: 2026-11-22 11:29 UTC
-! Entries: 67687
+! Last modified: 2026-11-22 18:52 UTC
+! Entries: 67669
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:
 !   - HaGeZi Anti-Piracy (https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt)
@@ -3412,7 +3412,6 @@
 ||alya-koketnichaet-lordfilme.ru^
 ||alya-lordfilm.ru^
 ||alye-serdtsa-lordfilm.ru^
-||alypum.beer^
 ||amaazonn-lordfilm.ru^
 ||amaazoon-lordfilm.ru^
 ||amaazoon-lordfilms.ru^
@@ -8258,9 +8257,6 @@
 ||cmacked.com^
 ||cmert-stalina-lordfilm.ru^
 ||cmovierulz.com^
-||cmovies-cc.com^
-||cmovies-online.com^
-||cmovies.ac^
 ||cmovies.click^
 ||cmovies.co^
 ||cmovies.dev^
@@ -13431,7 +13427,6 @@
 ||filmstreaming.de^
 ||filmstreaming.dk^
 ||filmstreaming.gg^
-||filmstreaming.hair^
 ||filmstreaming.in^
 ||filmstreaming.info^
 ||filmstreaming.io^
@@ -15355,7 +15350,6 @@
 ||futbollibregol.biz^
 ||futbollibregol.org^
 ||futbollibreperu.org^
-||futbollibreplay.org^
 ||futbollibres.live^
 ||futbollibres.online^
 ||futbollibretotal.com^
@@ -30624,7 +30618,6 @@
 ||lordfilminf43.icu^
 ||lordfilminferno.lol^
 ||lordfilminfinite.sbs^
-||lordfilminfinite.top^
 ||lordfilminfrared.top^
 ||lordfilming.cc^
 ||lordfilming.life^
@@ -31734,7 +31727,6 @@
 ||lordfilmlegion.lat^
 ||lordfilmleh.lat^
 ||lordfilmlei.monster^
-||lordfilmleisure.top^
 ||lordfilmlek.lat^
 ||lordfilmlek.life^
 ||lordfilmlendy.icu^
@@ -33776,7 +33768,6 @@
 ||lordfilmprize.cfd^
 ||lordfilmprj.lol^
 ||lordfilmpro1.lat^
-||lordfilmproblem.sbs^
 ||lordfilmprocess.top^
 ||lordfilmproekt.icu^
 ||lordfilmproem.top^
@@ -35095,7 +35086,6 @@
 ||lordfilmserial.ru^
 ||lordfilmserialcx5.ru^
 ||lordfilmseriall.online^
-||lordfilmseriallihie.live^
 ||lordfilmseriatim.top^
 ||lordfilmserpo.lat^
 ||lordfilmserved.lol^
@@ -44090,7 +44080,6 @@
 ||myflixtv.to^
 ||myflixtv.xyz^
 ||myflixvault.com^
-||myflixy.site^
 ||myflixy.store^
 ||myflixz.com^
 ||myflixzone.com^
@@ -45116,7 +45105,6 @@
 ||nitrowarez.com^
 ||niulangshan.online^
 ||nixon-iptv.online^
-||njanjaoksanalordfilm.com^
 ||nje-odni-lordfilm.cfd^
 ||nje-odny-lordfilm.cfd^
 ||njeiromant-lordfilm.cfd^
@@ -56180,7 +56168,6 @@
 ||tantsy-lordfilme.ru^
 ||tanzed.no-ip.info^
 ||taodung.com^
-||tap4sport.ci^
 ||tapeadsenjoyer.com^
 ||tapeadvertisement.com^
 ||tapeblocker.com^
@@ -56213,9 +56200,6 @@
 ||taraftarium24.cc^
 ||taraftarium24.ch^
 ||taraftarium24bedava.com^
-||taraftarium24bjk.com^
-||taraftarium24bjk10.com^
-||taraftarium24bjk12.com^
 ||taraftarium24bjk13.com^
 ||taraftarium24bjk14.com^
 ||taraftarium24bjk15.com^
@@ -58931,7 +58915,6 @@
 ||torrentrocket.xyz^
 ||torrentrockstar.xyz^
 ||torrentroot.com^
-||torrentrpg.com^
 ||torrentru.com^
 ||torrentrue.xyz^
 ||torrentrush.info^
@@ -65694,7 +65677,6 @@
 ||x121.live^
 ||x123movies.co^
 ||x123movies.com^
-||x123movies.net^
 ||x123movies.to^
 ||x1337x.eu^
 ||x1337x.ws^

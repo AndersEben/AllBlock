@@ -1,6 +1,6 @@
 ! Title: AllBlock – Erwachseneninhalte
 ! Description: Pornografie und NSFW-Inhalte
-! Last modified: 2026-11-22 11:29 UTC
+! Last modified: 2026-11-22 18:52 UTC
 ! Entries: 1183869
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:
@@ -204325,7 +204325,6 @@
 ||caserashot.com.ar^
 ||caserastop.com^
 ||caserasx.com^
-||casereddisp.com^
 ||casereportsjunl.info^
 ||caserillas.com^
 ||caseritas.com^
@@ -542022,7 +542021,6 @@
 ||jijichina.com^
 ||jijicrisis.blogspot.com^
 ||jijidh.com^
-||jijidh.xyz^
 ||jijiji.xyz^
 ||jijindi.com^
 ||jijingling.org.cn^
@@ -724029,6 +724027,7 @@
 ||onlykinky.com^
 ||onlykoas.com^
 ||onlykrab.app^
+||onlykrab.com^
 ||onlykrush.com^
 ||onlyladies.online^
 ||onlyladyboy.com^
@@ -724204,6 +724203,7 @@
 ||onlynudesinpublic.tumblr.com^
 ||onlynudostar.com^
 ||onlynut.net^
+||onlynuts.ai^
 ||onlynylon.blogbugs.org^
 ||onlynylonlegs.com^
 ||onlynylonpics.com^

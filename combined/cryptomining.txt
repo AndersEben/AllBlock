@@ -1,6 +1,6 @@
 # Title: AllBlock – Cryptomining
 # Description: Browser-Miner und Cryptojacking
-# Last modified: 2026-11-22 11:29 UTC
+# Last modified: 2026-11-22 18:52 UTC
 # Entries: 12062
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

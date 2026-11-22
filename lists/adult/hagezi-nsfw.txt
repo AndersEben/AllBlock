@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi NSFW
 # Description: Erwachseneninhalte – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw.txt
-# Last modified: 2026-11-22 11:29 UTC
-# Entries: 87403
+# Last modified: 2026-11-22 18:52 UTC
+# Entries: 87389
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw.txt
@@ -359,7 +359,6 @@
 18japansexual.shop
 18japanxxx.shop
 18japanxxxx.shop
-18jav.info
 18jav.tv
 18jtv.com
 18kami.com
@@ -2368,6 +2367,7 @@ adult-bank.jp
 adult-bible.com
 adult-bondage-fetish.com
 adult-book-lounge.site
+adult-c.com
 adult-cam-sites.net
 adult-cams.net
 adult-channel.info
@@ -6551,7 +6551,6 @@ asianpornlove.com
 asianpornmemo.com
 asianpornmovies.com
 asianpornok.com
-asianpornolab.com
 asianpornone.com
 asianpornp.com
 asianpornpage.com
@@ -9816,6 +9815,7 @@ bestpornreviews.net
 bestpornshd.com
 bestpornsites.biz
 bestpornsites.club
+bestpornsites.co.uk
 bestpornsites.guide
 bestpornsites.love
 bestpornsites.net
@@ -13427,7 +13427,6 @@ callgirlbazaar.com
 callgirldelhi.in
 callgirldelhi.info
 callgirldelhi.org
-callgirldwarka.in
 callgirlescortsservice.in
 callgirlficker.com
 callgirlficker.de
@@ -14862,6 +14861,7 @@ camsexnude.com
 camsexposed.tk
 camsexpromotion.com
 camsexsearch.com
+camsexseiten.com
 camsexsite.com
 camsexuk.com
 camsexverse.com
@@ -15516,7 +15516,6 @@ casadoscontos.com.br
 casalara-granalacant.com
 casalinhodaazenha.com
 cascosporn.com
-casereddisp.com
 caseyloves.com
 caseyporn.com
 cashcallgirls.com
@@ -23259,7 +23258,6 @@ eroticbeauty.com
 eroticbeautylive.com
 eroticbiznetwork.com
 eroticblue.net
-eroticchaos.com
 eroticchubby.com
 eroticcomagazine.com
 eroticcroulette.com
@@ -25602,6 +25600,7 @@ femdommania.org
 femdommix.com
 femdomora.com
 femdompin.com
+femdomplanet.org
 femdomporn.wiki
 femdompornsites.com
 femdomqueen.com
@@ -32355,7 +32354,6 @@ granny-bigtits.com
 granny-escorts.com
 granny-freeporn.com
 granny-fuck.net
-granny-movies.com
 granny-porn.me
 granny-pornmovies.com
 granny-pornpics.com
@@ -32719,7 +32717,6 @@ grodealindia.com
 grokbikini.app
 grokbikini.com
 groknsfw.com
-grokonlyfans.com
 grometsplaza.net
 gromochat.com
 gronna.com
@@ -37008,7 +37005,6 @@ hugebudz.com
 hugechallenge.com
 hugecock-hdporn.com
 hugecockbreak.com
-hugecocktv.com
 hugedick.com
 hugedick.vip
 hugedickz.com
@@ -37767,7 +37763,6 @@ imaxinnovations.com
 imcbsglobal.com
 imeighteentoday.com
 imeng.xyz
-imerchandise.ru
 imfailure.com
 img.favsite.jp
 img.mega-porno.love
@@ -39730,7 +39725,6 @@ javdoe.to
 javdoe.tv
 javdose.com
 javdragon.com
-javdude.win
 javeamor.com
 javelm.com
 javeng.com
@@ -40315,7 +40309,6 @@ jigglyjax.co.uk
 jigquest.com
 jiinchoi.com
 jijidh.com
-jijidh.xyz
 jijissweets.com
 jikansulefarms.com
 jilbabhot.com
@@ -40750,7 +40743,6 @@ juicyho.com
 juicyindianporn.com
 juicyjavs.com
 juicylist.top
-juicymaturepussy.com
 juicymoms.net
 juicynudists.com
 juicyoldpussy.com
@@ -43087,7 +43079,6 @@ leakmodel.com
 leakmycam.com
 leaknudes.com
 leaknudes.net
-leaknudes0.com
 leakonly.com
 leakporner.com
 leakporner.net
@@ -49461,7 +49452,6 @@ monistay.com
 monitoringwife.xyz
 moniturbate.com
 monkeyanimalporn.com
-monkeygirls.xyz
 monkeymommycrafts.com
 monporno.fr
 monroo.com
@@ -51665,6 +51655,7 @@ neukt.xyz
 neuncotherapeutics.com
 neurogay.com
 neurotechnia.com
+nevadaescorts.us
 nevadaonebeauty.com
 nevenvn.itch.io
 nevsehirescort.cfd
@@ -54687,6 +54678,7 @@ ourlivechat.com
 ourmomsteachsex.fun
 ournamehere.com
 ournaughtygirls.com
+ouroerotico.com
 oursecretflirts.com
 oursexgames.com
 oursexuary.com
@@ -55487,7 +55479,6 @@ pervertium.com
 pervertstore.com
 perverttube.com
 pervertvonbraun.com
-pervertxxx.com
 perverzija.com
 pervgate.com
 pervgay.com
@@ -55610,7 +55601,6 @@ phim-xet.com
 phim3x.xxx
 phim69.xxx
 phim69xxx.com
-phimguru.com
 phimhay47.net
 phimheo.app
 phimheo.bar
@@ -57314,7 +57304,6 @@ pornclear.net
 pornclick.cyou
 pornclip.net
 pornclip.one
-pornclip.org
 porncliphub.com
 pornclips-gay.com
 pornclips.top
@@ -65250,6 +65239,7 @@ russianroulette.su
 russianschoolgirls.net
 russianschoolgirls.top
 russiansex.club
+russiansexxx.net
 russiansexyladies.com
 russiansgirls.net
 russiansmokers.com
@@ -65413,7 +65403,6 @@ sadomaso.net
 safada.tv
 safadetes.com
 safadinhastube.xyz
-safadinhos.net
 safariloverswte.com
 safarisex.com
 safeanal.com
@@ -68311,6 +68300,7 @@ sexpornoxxx.net
 sexpornpages.com
 sexpornpictures.com
 sexporns.pro
+sexpornvip.com
 sexpornxxx.video
 sexpose.com
 sexposetube.com
@@ -69224,7 +69214,6 @@ sexy.myconfinedspace.com
 sexy.net
 sexy.to
 sexy.xxxblog.jp
-sexy24.net
 sexy355.com
 sexy4arab.com
 sexy601.com
@@ -77890,7 +77879,6 @@ turkporno56.cfd
 turkporno56.lat
 turkporno57.cfd
 turkporno59.cfd
-turkporno6.cfd
 turkporno66.cfd
 turkporno67.cfd
 turkporno69.cfd
@@ -78451,7 +78439,6 @@ undressme.ai
 undressme.net
 undressninja.com
 undresswith.ai
-undrg-vds.lol
 unebaise.com
 unfaithful.mom
 unfaithfulsex.com
@@ -85889,7 +85876,6 @@ xxxxvideo.org
 xxxxvideo.uno
 xxxxvideos.cc
 xxxxvideos.club
-xxxxvideos.fun
 xxxxx.video
 xxxxx.wang
 xxxxx46.com
