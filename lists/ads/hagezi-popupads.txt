@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Pop-Up Ads
 # Description: Werbung – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 73234
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

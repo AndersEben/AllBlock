@@ -1,6 +1,6 @@
 # Title: AllBlock – AdAway default blocklist
 # Description: Werbung – normalisierte Kopie von https://adaway.org/hosts.txt
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 6540
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -2,7 +2,7 @@
 
 Alle bekannten DNS-Blocklisten für **AdGuard Home** und **Pi-hole**, nach Kategorien sortiert und dedupliziert.
 
-Stand: **22.11.2026 18:52 UTC** · 99 Quellen · **8,298,853** eindeutige Domains
+Stand: **22.11.2026 19:13 UTC** · 99 Quellen · **8,298,571** eindeutige Domains
 
 > **AdGuard Home:** Link der Adblock-Liste kopieren → *Filter → DNS-Sperrlisten → Sperrliste hinzufügen*  
 > **Pi-hole:** Link der Domain-Liste kopieren → *Lists / Adlists* → danach `pihole -g`
@@ -25,7 +25,7 @@ Alle Quellen einer Kategorie zusammengefasst, ohne doppelte Einträge.
 | **Fake News** | 2,194 | [fakenews.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/fakenews.txt) | [fakenews.adblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/fakenews.adblock.txt) |
 | **Piraterie & Torrents** | 67,669 | [piracy.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.txt) | [piracy.adblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.adblock.txt) |
 | **DoH / VPN / Proxy-Bypass** | 17,152 | [bypass.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.txt) | [bypass.adblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.adblock.txt) |
-| **All-in-One** | 731,303 | [multi.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.txt) | [multi.adblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.adblock.txt) |
+| **All-in-One** | 727,357 | [multi.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.txt) | [multi.adblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.adblock.txt) |
 
 ## Einzelne Quellen
 
@@ -217,8 +217,8 @@ Große kuratierte Kombi-Listen (Werbung + Tracking + Malware)
 |---|---:|---|---|
 | [StevenBlack Unified Hosts](https://github.com/StevenBlack/hosts) | 76,103 | [stevenblack-unified.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/stevenblack-unified.txt) | [Original](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) |
 | [OISD Big](https://oisd.nl) | 220,281 | [oisd-big.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/oisd-big.txt) | [Original](https://big.oisd.nl/domainswild) |
-| [HaGeZi Multi PRO](https://github.com/hagezi/dns-blocklists) | 281,640 | [hagezi-pro.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-pro.txt) | [Original](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt) |
-| [HaGeZi Multi ULTIMATE](https://github.com/hagezi/dns-blocklists) | 325,094 | [hagezi-ultimate.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-ultimate.txt) | [Original](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt) |
+| [HaGeZi Multi PRO](https://github.com/hagezi/dns-blocklists) | 242,058 | [hagezi-pro.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-pro.txt) | [Original](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt) |
+| [HaGeZi Multi ULTIMATE](https://github.com/hagezi/dns-blocklists) | 285,120 | [hagezi-ultimate.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-ultimate.txt) | [Original](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt) |
 | [hBlock](https://github.com/hectorm/hblock) | 485,383 | [hblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hblock.txt) | [Original](https://hblock.molinero.dev/hosts_domains.txt) |
 
 ---

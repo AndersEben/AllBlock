@@ -1,6 +1,6 @@
 # Title: AllBlock – Spam404
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 8140
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

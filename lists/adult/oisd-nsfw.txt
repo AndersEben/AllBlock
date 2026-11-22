@@ -1,6 +1,6 @@
 # Title: AllBlock – OISD NSFW
 # Description: Erwachseneninhalte – normalisierte Kopie von https://nsfw.oisd.nl/domainswild
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 498523
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

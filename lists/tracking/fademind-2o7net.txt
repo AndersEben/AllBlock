@@ -1,6 +1,6 @@
 # Title: AllBlock – FadeMind add.2o7Net
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 2030
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

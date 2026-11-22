@@ -1,6 +1,6 @@
 # Title: AllBlock – Dan Pollock's hosts (someonewhocares)
 # Description: Werbung – normalisierte Kopie von https://someonewhocares.org/hosts/zero/hosts
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 13090
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

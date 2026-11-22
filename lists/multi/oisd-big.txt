@@ -1,6 +1,6 @@
 # Title: AllBlock – OISD Big
 # Description: All-in-One – normalisierte Kopie von https://big.oisd.nl/domainswild
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 220281
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

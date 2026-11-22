@@ -1,6 +1,6 @@
 # Title: AllBlock – AdGuard Mobile Ads (r-a-y)
 # Description: Werbung – normalisierte Kopie von https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 936
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

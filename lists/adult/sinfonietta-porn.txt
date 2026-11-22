@@ -1,6 +1,6 @@
 # Title: AllBlock – Sinfonietta pornography-hosts
 # Description: Erwachseneninhalte – normalisierte Kopie von https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 61154
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

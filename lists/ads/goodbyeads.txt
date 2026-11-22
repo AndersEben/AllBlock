@@ -1,6 +1,6 @@
 # Title: AllBlock – GoodbyeAds
 # Description: Werbung – normalisierte Kopie von https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-# Last modified: 2026-11-22 18:52 UTC
+# Last modified: 2026-11-22 19:13 UTC
 # Entries: 277774
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

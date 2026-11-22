@@ -1,6 +1,6 @@
 ! Title: AllBlock – Scam & Betrug
 ! Description: Fake-Shops, Betrugsseiten, Spam, Redirect-Fallen
-! Last modified: 2026-11-22 18:52 UTC
+! Last modified: 2026-11-22 19:13 UTC
 ! Entries: 889279
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:
