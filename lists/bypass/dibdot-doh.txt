@@ -1,7 +1,7 @@
 # Title: AllBlock – dibdot DoH Domains
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
-# Last modified: 2026-11-21 21:53 UTC
-# Entries: 1424
+# Last modified: 2026-11-22 11:29 UTC
+# Entries: 1423
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
@@ -415,7 +415,6 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de

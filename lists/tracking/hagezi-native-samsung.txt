@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Native Tracker – Samsung
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.samsung.txt
-# Last modified: 2026-11-21 21:52 UTC
+# Last modified: 2026-11-22 11:28 UTC
 # Entries: 201
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

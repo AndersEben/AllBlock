@@ -1,6 +1,6 @@
 # Title: AllBlock – Tracking & Telemetrie
 # Description: Tracker, Analytics, Session-Replay, Geräte-/Betriebssystem-Telemetrie
-# Last modified: 2026-11-21 21:52 UTC
+# Last modified: 2026-11-22 11:28 UTC
 # Entries: 378848
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

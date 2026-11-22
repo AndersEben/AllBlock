@@ -1,6 +1,6 @@
 # Title: AllBlock – StevenBlack Extension – Porn
 # Description: Erwachseneninhalte – normalisierte Kopie von https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
-# Last modified: 2026-11-21 21:53 UTC
+# Last modified: 2026-11-22 11:29 UTC
 # Entries: 76810
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

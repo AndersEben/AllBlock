@@ -1,6 +1,6 @@
 # AllBlock – Status der Listen
 
-Stand: **2026-11-21T21:52:49+00:00** · 99 Quellen (99 ✅ · 0 ⚠️ veraltet · 0 ❌) · **8,074,345** eindeutige Domains insgesamt
+Stand: **2026-11-22T11:28:50+00:00** · 99 Quellen (99 ✅ · 0 ⚠️ veraltet · 0 ❌) · **8,239,660** eindeutige Domains insgesamt
 
 Diese Datei wird automatisch erzeugt. Projekt & Doku: https://github.com/AndersEben/AllBlock
 
@@ -8,19 +8,19 @@ Diese Datei wird automatisch erzeugt. Projekt & Doku: https://github.com/AndersE
 
 | Kategorie | Domains | Größe | Download |
 |---|---:|---:|---|
-| **Werbung** (`ads`) | 996,896 | 22.8 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/ads.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/ads.adblock.txt) |
+| **Werbung** (`ads`) | 997,159 | 22.8 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/ads.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/ads.adblock.txt) |
 | **Tracking & Telemetrie** (`tracking`) | 378,848 | 8.9 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/tracking.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/tracking.adblock.txt) |
-| **Malware & Threat Intelligence** (`malware`) | 4,108,331 | 76.3 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/malware.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/malware.adblock.txt) |
-| **Phishing** (`phishing`) | 730,818 | 17.6 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/phishing.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/phishing.adblock.txt) |
-| **Scam & Betrug** (`scam`) | 889,270 | 17.6 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/scam.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/scam.adblock.txt) |
+| **Malware & Threat Intelligence** (`malware`) | 4,319,518 | 79.8 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/malware.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/malware.adblock.txt) |
+| **Phishing** (`phishing`) | 730,685 | 17.6 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/phishing.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/phishing.adblock.txt) |
+| **Scam & Betrug** (`scam`) | 889,328 | 17.6 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/scam.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/scam.adblock.txt) |
 | **Cryptomining** (`cryptomining`) | 12,062 | 207.7 KB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/cryptomining.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/cryptomining.adblock.txt) |
-| **Erwachseneninhalte** (`adult`) | 1,183,766 | 21.2 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/adult.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/adult.adblock.txt) |
-| **Glücksspiel** (`gambling`) | 721,223 | 12.1 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/gambling.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/gambling.adblock.txt) |
-| **Social Media** (`social`) | 35,810 | 1000.0 KB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/social.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/social.adblock.txt) |
+| **Erwachseneninhalte** (`adult`) | 1,183,869 | 21.2 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/adult.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/adult.adblock.txt) |
+| **Glücksspiel** (`gambling`) | 732,941 | 12.3 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/gambling.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/gambling.adblock.txt) |
+| **Social Media** (`social`) | 35,899 | 1001.5 KB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/social.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/social.adblock.txt) |
 | **Fake News** (`fakenews`) | 2,194 | 40.8 KB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/fakenews.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/fakenews.adblock.txt) |
-| **Piraterie & Torrents** (`piracy`) | 66,715 | 1.3 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.adblock.txt) |
-| **DoH / VPN / Proxy-Bypass** (`bypass`) | 17,144 | 299.6 KB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.adblock.txt) |
-| **All-in-One** (`multi`) | 731,351 | 14.8 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.adblock.txt) |
+| **Piraterie & Torrents** (`piracy`) | 67,687 | 1.3 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/piracy.adblock.txt) |
+| **DoH / VPN / Proxy-Bypass** (`bypass`) | 17,160 | 299.9 KB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/bypass.adblock.txt) |
+| **All-in-One** (`multi`) | 735,726 | 14.9 MB | [Domains](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.txt) · [Adblock](https://raw.githubusercontent.com/AndersEben/AllBlock/main/combined/multi.adblock.txt) |
 
 ## Einzellisten
 
@@ -30,7 +30,7 @@ Werbe-Server, Ad-Networks, Pop-ups, mobile Werbung
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [AdGuard DNS filter](https://github.com/AdguardTeam/AdGuardSDNSFilter) | 191,256 | ✅ | [adguard-dns-filter.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/adguard-dns-filter.txt) |
+| [AdGuard DNS filter](https://github.com/AdguardTeam/AdGuardSDNSFilter) | 191,477 | ✅ | [adguard-dns-filter.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/adguard-dns-filter.txt) |
 | [AdAway default blocklist](https://adaway.org) | 6,540 | ✅ | [adaway.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/adaway.txt) |
 | [Peter Lowe's Ad and tracking server list](https://pgl.yoyo.org/adservers/) | 3,554 | ✅ | [peter-lowe.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/peter-lowe.txt) |
 | [EasyList (Firebog Pi-hole-Format)](https://firebog.net) | 51,631 | ✅ | [firebog-easylist.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/firebog-easylist.txt) |
@@ -44,7 +44,7 @@ Werbe-Server, Ad-Networks, Pop-ups, mobile Werbung
 | [Lightswitch05 Ads & Tracking Extended](https://github.com/lightswitch05/hosts) | 429,282 | ✅ | [developerdan-ads-tracking.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/developerdan-ads-tracking.txt) |
 | [ShadowWhisperer Ads](https://github.com/ShadowWhisperer/BlockLists) | 30,004 | ✅ | [shadowwhisperer-ads.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/shadowwhisperer-ads.txt) |
 | [Dandelion Sprout Game Console Adblock List](https://github.com/DandelionSprout/adfilt) | 16 | ✅ | [game-console-adblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/game-console-adblock.txt) |
-| [HaGeZi Pop-Up Ads](https://github.com/hagezi/dns-blocklists) | 72,984 | ✅ | [hagezi-popupads.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/hagezi-popupads.txt) |
+| [HaGeZi Pop-Up Ads](https://github.com/hagezi/dns-blocklists) | 73,218 | ✅ | [hagezi-popupads.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/hagezi-popupads.txt) |
 | [Disconnect.me Ads](https://disconnect.me) | 2,700 | ✅ | [disconnect-ads.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/disconnect-ads.txt) |
 | [The Block List Project – Ads](https://github.com/blocklistproject/Lists) | 235,897 | ✅ | [blocklistproject-ads.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/blocklistproject-ads.txt) |
 | [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) | 277,774 | ✅ | [goodbyeads.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/ads/goodbyeads.txt) |
@@ -86,8 +86,8 @@ Malware-Verteilung, C2-Server, Ransomware, Stalkerware, Malvertising
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [malware-filter URLhaus Filter](https://gitlab.com/malware-filter/urlhaus-filter) | 2,142 | ✅ | [urlhaus-filter.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/urlhaus-filter.txt) |
-| [HaGeZi Threat Intelligence Feeds](https://github.com/hagezi/dns-blocklists) | 1,577,490 | ✅ | [hagezi-tif.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/hagezi-tif.txt) |
+| [malware-filter URLhaus Filter](https://gitlab.com/malware-filter/urlhaus-filter) | 2,140 | ✅ | [urlhaus-filter.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/urlhaus-filter.txt) |
+| [HaGeZi Threat Intelligence Feeds](https://github.com/hagezi/dns-blocklists) | 1,865,695 | ✅ | [hagezi-tif.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/hagezi-tif.txt) |
 | [Dandelion Sprout Anti-Malware List](https://github.com/DandelionSprout/adfilt) | 11,686 | ✅ | [dandelion-antimalware.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/dandelion-antimalware.txt) |
 | [Fabrice Prigent – Malware (Firebog)](https://firebog.net) | 239,641 | ✅ | [firebog-prigent-malware.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/firebog-prigent-malware.txt) |
 | [RPiList Malware (Firebog)](https://firebog.net) | 761,609 | ✅ | [firebog-rpilist-malware.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/malware/firebog-rpilist-malware.txt) |
@@ -105,9 +105,9 @@ Phishing-Seiten und Credential-Harvesting
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [malware-filter Phishing Filter](https://gitlab.com/malware-filter/phishing-filter) | 16,674 | ✅ | [phishing-filter.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/phishing-filter.txt) |
+| [malware-filter Phishing Filter](https://gitlab.com/malware-filter/phishing-filter) | 16,665 | ✅ | [phishing-filter.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/phishing-filter.txt) |
 | [Phishing.Database – aktive Domains](https://github.com/mitchellkrogza/Phishing.Database) | 386,608 | ✅ | [phishing-database-active.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/phishing-database-active.txt) |
-| [OpenPhish Community Feed](https://openphish.com) | 291 | ✅ | [openphish.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/openphish.txt) |
+| [OpenPhish Community Feed](https://openphish.com) | 286 | ✅ | [openphish.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/openphish.txt) |
 | [RPiList Phishing (Firebog)](https://firebog.net) | 153,858 | ✅ | [firebog-rpilist-phishing.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/firebog-rpilist-phishing.txt) |
 | [The Block List Project – Phishing](https://github.com/blocklistproject/Lists) | 190,193 | ✅ | [blocklistproject-phishing.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/phishing/blocklistproject-phishing.txt) |
 
@@ -117,9 +117,9 @@ Fake-Shops, Betrugsseiten, Spam, Redirect-Fallen
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [HaGeZi Fake (Fake-Shops, Scam)](https://github.com/hagezi/dns-blocklists) | 10,745 | ✅ | [hagezi-fake.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/hagezi-fake.txt) |
+| [HaGeZi Fake (Fake-Shops, Scam)](https://github.com/hagezi/dns-blocklists) | 10,833 | ✅ | [hagezi-fake.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/hagezi-fake.txt) |
 | [Spam404](https://github.com/Spam404/lists) | 8,140 | ✅ | [spam404.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/spam404.txt) |
-| [durablenapkin Scam Blocklist](https://github.com/durablenapkin/scamblocklist) | 2,155 | ✅ | [durablenapkin-scam.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/durablenapkin-scam.txt) |
+| [durablenapkin Scam Blocklist](https://github.com/durablenapkin/scamblocklist) | 2,127 | ✅ | [durablenapkin-scam.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/durablenapkin-scam.txt) |
 | [jarelllama Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist) | 468,729 | ✅ | [jarelllama-scam.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/jarelllama-scam.txt) |
 | [ShadowWhisperer Scam](https://github.com/ShadowWhisperer/BlockLists) | 6,185 | ✅ | [shadowwhisperer-scam.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/shadowwhisperer-scam.txt) |
 | [The Block List Project – Scam](https://github.com/blocklistproject/Lists) | 8,527 | ✅ | [blocklistproject-scam.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/scam/blocklistproject-scam.txt) |
@@ -142,8 +142,8 @@ Pornografie und NSFW-Inhalte
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [HaGeZi NSFW](https://github.com/hagezi/dns-blocklists) | 88,002 | ✅ | [hagezi-nsfw.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/hagezi-nsfw.txt) |
-| [OISD NSFW](https://oisd.nl) | 498,353 | ✅ | [oisd-nsfw.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/oisd-nsfw.txt) |
+| [HaGeZi NSFW](https://github.com/hagezi/dns-blocklists) | 87,403 | ✅ | [hagezi-nsfw.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/hagezi-nsfw.txt) |
+| [OISD NSFW](https://oisd.nl) | 498,501 | ✅ | [oisd-nsfw.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/oisd-nsfw.txt) |
 | [Sinfonietta pornography-hosts](https://github.com/Sinfonietta/hostfiles) | 61,154 | ✅ | [sinfonietta-porn.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/sinfonietta-porn.txt) |
 | [StevenBlack Extension – Porn](https://github.com/StevenBlack/hosts) | 76,810 | ✅ | [stevenblack-porn.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/stevenblack-porn.txt) |
 | [chadmayfield Porn Top 1M](https://github.com/chadmayfield/my-pihole-blocklists) | 11,868 | ✅ | [chadmayfield-porn.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/adult/chadmayfield-porn.txt) |
@@ -156,7 +156,7 @@ Online-Casinos, Sportwetten, Glücksspiel
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [HaGeZi Gambling](https://github.com/hagezi/dns-blocklists) | 698,491 | ✅ | [hagezi-gambling.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/gambling/hagezi-gambling.txt) |
+| [HaGeZi Gambling](https://github.com/hagezi/dns-blocklists) | 710,182 | ✅ | [hagezi-gambling.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/gambling/hagezi-gambling.txt) |
 | [Sinfonietta gambling-hosts](https://github.com/Sinfonietta/hostfiles) | 2,690 | ✅ | [sinfonietta-gambling.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/gambling/sinfonietta-gambling.txt) |
 | [StevenBlack Extension – Gambling](https://github.com/StevenBlack/hosts) | 6,744 | ✅ | [stevenblack-gambling.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/gambling/stevenblack-gambling.txt) |
 | [The Block List Project – Gambling](https://github.com/blocklistproject/Lists) | 342,623 | ✅ | [blocklistproject-gambling.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/gambling/blocklistproject-gambling.txt) |
@@ -167,7 +167,7 @@ Soziale Netzwerke (Facebook, Instagram, TikTok, X, …)
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [HaGeZi Social Networks](https://github.com/hagezi/dns-blocklists) | 8,247 | ✅ | [hagezi-social.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/social/hagezi-social.txt) |
+| [HaGeZi Social Networks](https://github.com/hagezi/dns-blocklists) | 8,336 | ✅ | [hagezi-social.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/social/hagezi-social.txt) |
 | [Sinfonietta social-hosts](https://github.com/Sinfonietta/hostfiles) | 3,808 | ✅ | [sinfonietta-social.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/social/sinfonietta-social.txt) |
 | [StevenBlack Extension – Social](https://github.com/StevenBlack/hosts) | 3,808 | ✅ | [stevenblack-social.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/social/stevenblack-social.txt) |
 | [The Block List Project – Facebook](https://github.com/blocklistproject/Lists) | 22,362 | ✅ | [blocklistproject-facebook.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/social/blocklistproject-facebook.txt) |
@@ -188,7 +188,7 @@ Warez-, Streaming- und Torrent-Seiten
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [HaGeZi Anti-Piracy](https://github.com/hagezi/dns-blocklists) | 63,691 | ✅ | [hagezi-anti-piracy.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/piracy/hagezi-anti-piracy.txt) |
+| [HaGeZi Anti-Piracy](https://github.com/hagezi/dns-blocklists) | 64,665 | ✅ | [hagezi-anti-piracy.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/piracy/hagezi-anti-piracy.txt) |
 | [The Block List Project – Piracy](https://github.com/blocklistproject/Lists) | 2,154 | ✅ | [blocklistproject-piracy.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/piracy/blocklistproject-piracy.txt) |
 | [The Block List Project – Torrent](https://github.com/blocklistproject/Lists) | 2,620 | ✅ | [blocklistproject-torrent.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/piracy/blocklistproject-torrent.txt) |
 
@@ -198,9 +198,9 @@ Verhindert das Umgehen des DNS-Filters über DoH-Resolver, VPNs, Proxies
 
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
-| [HaGeZi DoH/VPN/TOR/Proxy Bypass](https://github.com/hagezi/dns-blocklists) | 16,708 | ✅ | [hagezi-doh-vpn-proxy.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/bypass/hagezi-doh-vpn-proxy.txt) |
-| [HaGeZi Encrypted DNS Servers](https://github.com/hagezi/dns-blocklists) | 3,571 | ✅ | [hagezi-doh.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/bypass/hagezi-doh.txt) |
-| [dibdot DoH Domains](https://github.com/dibdot/DoH-IP-blocklists) | 1,424 | ✅ | [dibdot-doh.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/bypass/dibdot-doh.txt) |
+| [HaGeZi DoH/VPN/TOR/Proxy Bypass](https://github.com/hagezi/dns-blocklists) | 16,727 | ✅ | [hagezi-doh-vpn-proxy.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/bypass/hagezi-doh-vpn-proxy.txt) |
+| [HaGeZi Encrypted DNS Servers](https://github.com/hagezi/dns-blocklists) | 3,570 | ✅ | [hagezi-doh.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/bypass/hagezi-doh.txt) |
+| [dibdot DoH Domains](https://github.com/dibdot/DoH-IP-blocklists) | 1,423 | ✅ | [dibdot-doh.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/bypass/dibdot-doh.txt) |
 
 ### All-in-One (`multi`)
 
@@ -209,7 +209,7 @@ Große kuratierte Kombi-Listen (Werbung + Tracking + Malware)
 | Quelle | Einträge | Status | Liste |
 |---|---:|:---:|---|
 | [StevenBlack Unified Hosts](https://github.com/StevenBlack/hosts) | 76,103 | ✅ | [stevenblack-unified.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/stevenblack-unified.txt) |
-| [OISD Big](https://oisd.nl) | 224,162 | ✅ | [oisd-big.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/oisd-big.txt) |
-| [HaGeZi Multi PRO](https://github.com/hagezi/dns-blocklists) | 244,976 | ✅ | [hagezi-pro.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-pro.txt) |
-| [HaGeZi Multi ULTIMATE](https://github.com/hagezi/dns-blocklists) | 287,918 | ✅ | [hagezi-ultimate.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-ultimate.txt) |
-| [hBlock](https://github.com/hectorm/hblock) | 485,765 | ✅ | [hblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hblock.txt) |
+| [OISD Big](https://oisd.nl) | 224,387 | ✅ | [oisd-big.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/oisd-big.txt) |
+| [HaGeZi Multi PRO](https://github.com/hagezi/dns-blocklists) | 283,999 | ✅ | [hagezi-pro.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-pro.txt) |
+| [HaGeZi Multi ULTIMATE](https://github.com/hagezi/dns-blocklists) | 327,312 | ✅ | [hagezi-ultimate.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hagezi-ultimate.txt) |
+| [hBlock](https://github.com/hectorm/hblock) | 485,383 | ✅ | [hblock.txt](https://raw.githubusercontent.com/AndersEben/AllBlock/main/lists/multi/hblock.txt) |

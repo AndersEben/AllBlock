@@ -1,6 +1,6 @@
 # Title: AllBlock – Dandelion Sprout Game Console Adblock List
 # Description: Werbung – normalisierte Kopie von https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
-# Last modified: 2026-11-21 21:52 UTC
+# Last modified: 2026-11-22 11:28 UTC
 # Entries: 16
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

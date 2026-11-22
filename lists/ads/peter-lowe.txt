@@ -1,6 +1,6 @@
 # Title: AllBlock – Peter Lowe's Ad and tracking server list
 # Description: Werbung – normalisierte Kopie von https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Last modified: 2026-11-21 21:52 UTC
+# Last modified: 2026-11-22 11:28 UTC
 # Entries: 3554
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

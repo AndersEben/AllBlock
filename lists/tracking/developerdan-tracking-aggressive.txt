@@ -1,6 +1,6 @@
 # Title: AllBlock – Lightswitch05 Tracking Aggressive
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
-# Last modified: 2026-11-21 21:52 UTC
+# Last modified: 2026-11-22 11:28 UTC
 # Entries: 171820
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi Encrypted DNS Servers
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
-# Last modified: 2026-11-21 21:53 UTC
-# Entries: 3571
+# Last modified: 2026-11-22 11:29 UTC
+# Entries: 3570
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
@@ -588,7 +588,6 @@ beautifulthings.eu.org
 bei01.dnscry.pt
 bella.981377612.xyz
 berd.moe
-bestwon203.com
 bg.rslvr.eu
 bh.wael.name
 biba.ydns.eu
@@ -1979,6 +1978,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cnetwork.cloud
 doh.conectarjdp.com
@@ -2182,7 +2182,6 @@ echooff.xyz
 ecs-doh.dnswarden.com
 edgar.tobkar.net
 edge.nextdns.io
-edgy-dns.com
 edns.my.id
 egorovna.su
 egshe.myqnapcloud.com
@@ -2648,6 +2647,8 @@ lunar-dns.de
 luxembourg.privacy-dns.pw
 mabuktogel.business
 mabuktogel.cards
+mabuktogel.enterprises
+mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
@@ -2662,7 +2663,6 @@ mak-na.ru
 malanser.ru
 man01.dnscry.pt
 maqgie.xyz
-mask-api.fe.apple-dns.net
 mask-canary.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
@@ -3258,7 +3258,6 @@ takhtakh.domyah.net
 tartanbahn.eu.org
 tbs01.dnscry.pt
 teamspeak.adriason.co.uk
-tecdrive.site
 tecworx.at
 teknorota.com
 telex.app

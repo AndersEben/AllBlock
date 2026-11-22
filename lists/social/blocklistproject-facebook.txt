@@ -1,6 +1,6 @@
 # Title: AllBlock – The Block List Project – Facebook
 # Description: Social Media – normalisierte Kopie von https://blocklistproject.github.io/Lists/facebook.txt
-# Last modified: 2026-11-21 21:53 UTC
+# Last modified: 2026-11-22 11:29 UTC
 # Entries: 22362
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
