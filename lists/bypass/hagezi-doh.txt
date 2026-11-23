@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi Encrypted DNS Servers
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
-# Last modified: 2026-11-22 19:13 UTC
-# Entries: 3569
+# Last modified: 2026-11-23 12:30 UTC
+# Entries: 3552
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
@@ -46,7 +46,6 @@
 3.11i.eu
 3.local-dns.noridev.moe
 388024.vm.spacecore.network
-3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 45-33-113-218.ip.linodeusercontent.com
@@ -610,7 +609,6 @@ blog.kimiblock.top
 blog2.amlegion.org
 blokuj.ujwie.co
 blr01.dnscry.pt
-bluedns.xyz
 bluemood.me
 bne01.dnscry.pt
 bobr.netphoenix.ru
@@ -777,7 +775,6 @@ digitallink.be
 dingdangnao.com
 dirrectumrx.duckdns.org
 disbish.com
-disinformer.mooo.com
 diskstation.alexpollard.net
 djtesok.ddns.net
 dmhs.tovrixel.com
@@ -906,7 +903,6 @@ dns.api.test.globuscs.info
 dns.apigw.online
 dns.applewebkit.dev
 dns.aquilenet.fr
-dns.arapurayil.com
 dns.area2.com
 dns.ares-taiwan.com
 dns.arkbotech.com
@@ -1271,7 +1267,6 @@ dns.juancamos.com
 dns.jucker.engineering
 dns.jundev.org
 dns.jungle-im.ir
-dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -1362,7 +1357,6 @@ dns.marcbond.uk
 dns.marschi.de
 dns.mateo.ovh
 dns.mathewakhil.online
-dns.matthias-prost.com
 dns.maybe.icu
 dns.mayr.ws
 dns.mayx.eu.org
@@ -1385,8 +1379,6 @@ dns.mikeliu.org
 dns.mikopono.nl
 dns.mikrotikrumahan.my.id
 dns.millernetwork.uk
-dns.mipauns.com
-dns.miyun1.com
 dns.mnet-online.de
 dns.mni.li
 dns.mochalka.com
@@ -1435,7 +1427,6 @@ dns.netraptor.com.au
 dns.netrve.net
 dns.netvpn.net
 dns.neubsi.at
-dns.neutopia.org
 dns.nextdns.io
 dns.nguyendn.com
 dns.nhtsky.com
@@ -2011,7 +2002,6 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
-doh.gcp.pathofgrace.com
 doh.greenwood.eu.org
 doh.hosterra.tech
 doh.hshkf.com
@@ -2096,7 +2086,6 @@ doh.us.dnswarden.com
 doh.us.moe.tips
 doh.valscosmos.com
 doh.viatech.com.tw
-doh.vpsdns.co.za
 doh.webnmail.de
 doh.wewitro.net
 doh.xcom.pro
@@ -2104,7 +2093,6 @@ doh.xfinity.com
 doh.xorlet.ru
 doh.xyz
 doh.ywhost.com
-doh.zephyrus.id
 doh.zhongbr.uk
 doh.zknt.org
 doh003.280blocker.net
@@ -2135,6 +2123,7 @@ dot-jp.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
 dot.886675.xyz
+dot.centraleu.pi-dns.com
 dot.cleardns.io
 dot.cox.net
 dot.libredns.gr
@@ -2242,7 +2231,6 @@ fr37c1.ovh
 fra-dns.bitdefender.net
 fra01.dnscry.pt
 fra02.dnscry.pt
-fra1.eyecay.xyz
 frank-web.dedyn.io
 fredic.us
 free.shecan.ir
@@ -2260,7 +2248,6 @@ funti.cc
 funtikspb.ru
 furrytech.io
 futurearts.cc
-futuredns.eu.org
 fvpn.jarvishome.ru
 fwgw.orangepipc.mywire.org
 gaia.plonknet.com
@@ -2573,7 +2560,6 @@ kiv01.dnscry.pt
 kiwifunke.duckdns.org
 kjmserwis.pl
 knight1.de
-kocapb.ru
 kokesh.se
 kolobok2.duckdns.org
 kombaina.com
@@ -2743,7 +2729,6 @@ myvps69hrw.duckdns.org
 mzs1.ddns.net
 n.3363.net
 n.5201344.xyz
-n0.eu
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -3231,7 +3216,6 @@ sto02.dnscry.pt
 strassmair.org
 stratus.bugz.fr
 stroveer.hopto.org
-structoriumwings.ru
 studioai.freeddns.org
 sudo.rm-rf.cloud
 sukidayo.eu.org
@@ -3328,7 +3312,6 @@ tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tunnel.70x4.ru
 tupah421.duckdns.org
-tuskythehusky.tech
 tuu01.dnscry.pt
 twingatedns.dr3ff1c13nt.com
 twoncorgi.su

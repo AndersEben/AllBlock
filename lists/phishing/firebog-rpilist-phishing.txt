@@ -1,6 +1,6 @@
 # Title: AllBlock – RPiList Phishing (Firebog)
 # Description: Phishing – normalisierte Kopie von https://v.firebog.net/hosts/RPiList-Phishing.txt
-# Last modified: 2026-11-22 19:13 UTC
+# Last modified: 2026-11-23 12:30 UTC
 # Entries: 153858
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

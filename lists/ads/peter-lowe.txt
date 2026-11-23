@@ -1,7 +1,7 @@
 # Title: AllBlock – Peter Lowe's Ad and tracking server list
 # Description: Werbung – normalisierte Kopie von https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Last modified: 2026-11-22 19:13 UTC
-# Entries: 3554
+# Last modified: 2026-11-23 12:29 UTC
+# Entries: 3556
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -1658,6 +1658,7 @@ feedmob.com
 feelwarmth.com
 femalecook.com
 fenxi.com
+fhvfd.com
 figsprotein.com
 figurehunter.net
 fillthemap.com
@@ -2320,6 +2321,7 @@ nakedly.ai
 nappyattack.com
 nappyneck.com
 nastydollars.com
+native123.com
 nativeroll.tv
 navegg.com
 navigator.io

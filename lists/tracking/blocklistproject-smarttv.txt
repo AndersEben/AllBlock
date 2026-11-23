@@ -1,6 +1,6 @@
 # Title: AllBlock – The Block List Project – Smart TV
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://blocklistproject.github.io/Lists/smart-tv.txt
-# Last modified: 2026-11-22 19:13 UTC
+# Last modified: 2026-11-23 12:30 UTC
 # Entries: 77
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,6 +1,6 @@
 # Title: AllBlock – The Block List Project – Fraud
 # Description: Scam & Betrug – normalisierte Kopie von https://blocklistproject.github.io/Lists/fraud.txt
-# Last modified: 2026-11-22 19:13 UTC
+# Last modified: 2026-11-23 12:30 UTC
 # Entries: 285200
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
