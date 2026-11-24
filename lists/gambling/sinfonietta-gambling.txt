@@ -1,6 +1,6 @@
 # Title: AllBlock – Sinfonietta gambling-hosts
 # Description: Glücksspiel – normalisierte Kopie von https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
-# Last modified: 2026-11-23 12:30 UTC
+# Last modified: 2026-11-24 10:19 UTC
 # Entries: 2690
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

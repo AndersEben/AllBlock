@@ -1,6 +1,6 @@
 # Title: AllBlock – ShadowWhisperer Adult
 # Description: Erwachseneninhalte – normalisierte Kopie von https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult
-# Last modified: 2026-11-23 12:30 UTC
+# Last modified: 2026-11-24 10:19 UTC
 # Entries: 213982
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

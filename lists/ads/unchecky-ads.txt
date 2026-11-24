@@ -1,6 +1,6 @@
 # Title: AllBlock – FadeMind UncheckyAds
 # Description: Werbung – normalisierte Kopie von https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-# Last modified: 2026-11-23 12:29 UTC
+# Last modified: 2026-11-24 10:19 UTC
 # Entries: 9
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

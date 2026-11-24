@@ -1,6 +1,6 @@
 # Title: AllBlock – Perflyst Session Replay
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
-# Last modified: 2026-11-23 12:30 UTC
+# Last modified: 2026-11-24 10:19 UTC
 # Entries: 24
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

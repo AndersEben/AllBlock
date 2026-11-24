@@ -1,6 +1,6 @@
 # Title: AllBlock – Frogeye First-Party Trackers
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-# Last modified: 2026-11-23 12:30 UTC
+# Last modified: 2026-11-24 10:19 UTC
 # Entries: 15175
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

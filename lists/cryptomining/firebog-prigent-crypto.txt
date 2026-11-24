@@ -1,6 +1,6 @@
 # Title: AllBlock – Fabrice Prigent – Crypto (Firebog)
 # Description: Cryptomining – normalisierte Kopie von https://v.firebog.net/hosts/Prigent-Crypto.txt
-# Last modified: 2026-11-23 12:30 UTC
+# Last modified: 2026-11-24 10:19 UTC
 # Entries: 11490
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
