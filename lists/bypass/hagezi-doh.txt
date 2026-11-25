@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi Encrypted DNS Servers
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
-# Last modified: 2026-11-24 10:19 UTC
-# Entries: 3556
+# Last modified: 2026-11-25 19:59 UTC
+# Entries: 3563
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt
@@ -244,7 +244,6 @@ adguard.itclogic.cloud
 adguard.jaydub.cloud
 adguard.jfchenier.ca
 adguard.jodatacenter.com
-adguard.johanliebert.top
 adguard.jvpatel.com
 adguard.k-likhachev.ru
 adguard.kalyanmudumby.com
@@ -1631,6 +1630,7 @@ dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
+dns.swin.pro
 dns.switch.ch
 dns.sy.st
 dns.syaifullah.com
@@ -1989,7 +1989,9 @@ doh.dnscrypt.uk
 doh.dnswarden.com
 doh.domreg.lt
 doh.e7.work
+doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eddi.net
 doh.edifiels.ru
 doh.ersei.net
@@ -2038,6 +2040,7 @@ doh.ndmc.work.gd
 doh.nexen.cloud
 doh.nic.lv
 doh.niyawe.de
+doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.nukys.ca
 doh.oco-lae.my.id
@@ -2089,6 +2092,7 @@ doh.us.moe.tips
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
+doh.westeu.pi-dns.com
 doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
@@ -2133,11 +2137,13 @@ dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.libredns.gr
+dot.northeu.pi-dns.com
 dot.pub
 dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.appliedprivacy.net
 doth.huque.com
@@ -2374,7 +2380,6 @@ hole.elbschloss.xyz
 home-server.store
 home.azagra.dev
 home.basthorst.eu
-home.bruckmoser.it
 home.dlinkddns.com
 home.fc.idv.tw
 home.fendya.com
@@ -2958,6 +2963,7 @@ polisitogel.beauty
 polisitogel.contractors
 polisitogel.green
 polisitogel.hair
+polisitogel.living
 polisitogel.webcam
 pooblet.co.za
 positif4.cross.net.id
@@ -3381,6 +3387,7 @@ usatwo.wuyouss.com
 usxui.13142233.xyz
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
+v.qdev.cc
 v.recipes
 v.yuhui.eu.org
 v0dka.ru

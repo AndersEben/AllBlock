@@ -1,7 +1,7 @@
 # Title: AllBlock – HaGeZi Fake (Fake-Shops, Scam)
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt
-# Last modified: 2026-11-24 10:19 UTC
-# Entries: 10326
+# Last modified: 2026-11-25 19:59 UTC
+# Entries: 10334
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt
@@ -257,6 +257,7 @@ alfrescodurable.com
 algexia.pro
 algo-robot.co
 algorates.com
+algosone.ai
 aliceblue-alligator-117543.hostingersite.com
 alijz.com
 alimora.shop
@@ -777,7 +778,6 @@ babygea.com
 babygluckde.com
 babyglueck.shop
 babylissde.de
-babymodepur.com
 babynippon.com
 babyroom-shop.com
 babyschlafsack-abc.de
@@ -1239,6 +1239,7 @@ bitaiapp.pro
 bitcoin-pharmacy.com
 bitcoin-xact.fr
 bitcoineer.ai
+bitcoinera.app
 bitcoinera.com
 bitcoins-central.com
 bitebuns.com
@@ -1327,6 +1328,7 @@ boiscolomb.fr
 boisdechauffage.de
 bokermessershop.com
 boldsports.de
+bomiafx.com
 bonficegermany.myshopify.com
 bongochat.de
 bongochat.me
@@ -1405,6 +1407,7 @@ brennholz-brennstoff.com
 brennholz-forstservice-gilbert.de
 brennholz-friedrich.com
 brennholz-hans.de
+brennholz-haus.com
 brennholz-hofmann.de
 brennholz-konig.de
 brennholz-land.com
@@ -1661,7 +1664,6 @@ casualstore77.de
 casualstreet.de
 casualtry.de
 cat2fip.co
-catalia.de
 caterpillar-finland.com
 caterpillar-nederland.com
 caterpillar-nederland.top
@@ -1679,6 +1681,7 @@ ccftrading.com
 cci-immobilien.de
 ccmedia.news
 ccs-consulting.net
+ccwjl.com
 cdlp.co.at
 cedarfinance.com
 celerypets.com
@@ -2401,6 +2404,7 @@ domainene.com
 domeflix.de
 dominguesequipamentos.com
 domino-handel.de
+domino-store.com
 don-art.de
 donalovehair.de
 donate2camerafraud.com
@@ -2577,6 +2581,7 @@ ebikezubehoer.com
 ebm-heimwerk.com
 ebuyg.mom
 eccooutletdeutschland.de
+eceq.org
 echtdruck.de
 eck-grill.de
 eckert-handel.de
@@ -2929,7 +2934,6 @@ evolgrafix.de
 evoqueebikeshop.shop
 evoragaming.com
 ewigerbund.org
-ewigesleder.com
 ewzmvasz.shop
 exakubusinessclub.com
 excelia.net
@@ -3780,6 +3784,7 @@ goball.de
 goelitemarketing.com
 gogumus.com
 gohuntsport.myshoplaza.com
+goia-direkt.de
 goillo.com
 gokoelectricinc.com
 golaschuhewebsite.de
@@ -3844,6 +3849,7 @@ gotrax.store
 gotrixa.de
 govern1.com
 gpautoshopimport.com
+gplate.de
 gpslocatorphone.com
 gqaltq.shop
 grabpillsusa.com
@@ -3869,6 +3875,7 @@ grazapotheke.com
 green-shop.com.ua
 greenbird-shop.com
 greencrosspharmacy.online
+greendax.com
 greeneggstore.de
 greenhousesshop.com
 greentec-handel.de
@@ -4076,7 +4083,6 @@ haushaltgeschirr.com
 haushaltland.de
 haushaltmarkt.de
 haushaltofficial.com
-haushalts.store
 haushaltsgeraete-profis.de
 haushaltsgeratemarkt.com
 haushaltsheld.com
@@ -4746,7 +4752,6 @@ itruecare.com
 ivdmlqrb.shop
 iveldrano.com
 ivermectinkoupit.com
-ivernamart.com
 ivymonta.com
 iwamonmodeshop.com
 iwildcasinoonline.com
@@ -4770,6 +4775,7 @@ javanit.myshopify.com
 javius.com
 jaxban.com
 jayunlocks.com
+jb-brennholz.com
 jb-health.de
 jb7img.top
 jbcapitals.com
@@ -5088,7 +5094,6 @@ kayibaby.com
 kazoomba.com
 kbetake.com
 kbs-management.cc
-kedejo.com
 kedros-zeklant.de
 kedssuomi.com
 keen--shoes.com
@@ -5891,6 +5896,7 @@ marketsview.io
 marketxarproducts.shop
 markierskibindungen.com
 markt-shop.com
+markt.agency
 markt.life
 marktexpress.com
 marktkarree-langenfeld.de
@@ -6125,6 +6131,7 @@ midino.de
 midlandmodels.com
 midoga.com
 miduda.de
+midwayschiesspulver.de
 mieleoutlet.com
 mierasenh.com
 mightyufnderground.shop
@@ -6460,6 +6467,7 @@ myautomotorrad.com
 mybabybase.com
 mybeautys.de
 mybestonlineshop.com
+mybillpoint.com
 mycoczechia.com
 mycoinde.cc
 mycosmeticshop.de
@@ -6473,6 +6481,7 @@ myfaktory.com
 myfitnessdealz.de
 mygamesstore.com
 mygreensolaris.ch
+myhanna.de
 mykitworkshops.de
 mymedicalshop365.top
 mymedshoplive.com
@@ -6618,6 +6627,7 @@ nexxco24.de
 nflfanaticsstore.com
 nger.de
 nguebelipharma.com
+nhcol.com
 nholz.com
 nicechmk.shop
 nicedoc.co
@@ -6790,7 +6800,6 @@ oelrun.com
 oelsmart.de
 oeltiger.com
 oeltop.de
-oeluno.de
 oelunox.de
 oelup.de
 oelvia.de
@@ -6889,7 +6898,6 @@ online-uittreksel.com
 onlineanabolika.com
 onlinebonuscasino-de.de
 onlinebusinessdorf.de
-onlinecasinodeutschliste.de
 onlinecasinomitschnellerauszahlung.de
 onlinecasinoparis.com
 onlinecasinositeindia.com
@@ -9046,6 +9054,7 @@ thailives.com
 thaisawadee.de
 thanesar.com
 the-bitcoin-bank.com
+the-ethereumcode-pro.com
 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 the-immediateconnect.com
 the-portable-monitor.tech
@@ -9690,7 +9699,6 @@ vielfaltdepot.com
 viennaaustrohotel.com
 vientooffice.de
 vigamtransport.com
-vignetten.gettookun.com
 vignobles-terroirs.com
 viking-cnc.com
 viking-outlet.at

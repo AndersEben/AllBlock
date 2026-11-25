@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Native Tracker – Huawei
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 148
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

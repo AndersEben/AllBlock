@@ -1,6 +1,6 @@
 # Title: AllBlock – The Block List Project – Gambling
 # Description: Glücksspiel – normalisierte Kopie von https://blocklistproject.github.io/Lists/gambling.txt
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 342623
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

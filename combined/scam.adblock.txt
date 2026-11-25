@@ -1,7 +1,7 @@
 ! Title: AllBlock – Scam & Betrug
 ! Description: Fake-Shops, Betrugsseiten, Spam, Redirect-Fallen
-! Last modified: 2026-11-24 10:19 UTC
-! Entries: 888861
+! Last modified: 2026-11-25 19:59 UTC
+! Entries: 888856
 ! Homepage: https://github.com/AndersEben/AllBlock
 ! Sources:
 !   - HaGeZi Fake (Fake-Shops, Scam) (https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt)
@@ -54941,6 +54941,7 @@
 ||algoritmotiktok.com^
 ||algors.stream^
 ||algorwealth.com^
+||algosone.ai^
 ||algoswone.live^
 ||algotrading.intouchsoftwaresolution.com^
 ||algox.support^
@@ -88280,7 +88281,6 @@
 ||babymarkt.philibertoutlets.shop^
 ||babymedia.net^
 ||babymilk.tk^
-||babymodepur.com^
 ||babymonitorworld.shop^
 ||babymonogramedgifts.com^
 ||babymoonincappadocia.com^
@@ -96146,6 +96146,7 @@
 ||benwords.tk^
 ||benwork.tk^
 ||benx828nwbq.shop^
+||benxi.info^
 ||benyh.xyz^
 ||benyoutube.com.tr^
 ||benz-tec.com^
@@ -107873,6 +107874,7 @@
 ||bitcoiner.pl^
 ||bitcoiner.win^
 ||bitcoinera-official.net^
+||bitcoinera.app^
 ||bitcoinera.com^
 ||bitcoinera.digital^
 ||bitcoinera.org^
@@ -114626,6 +114628,7 @@
 ||bometok.shop^
 ||bomgarbitcoin.com^
 ||bomhttp.ml^
+||bomiafx.com^
 ||bomitiyibekeferunog.shop^
 ||bomm.uk.to^
 ||bommaxtech.com^
@@ -119101,6 +119104,7 @@
 ||brennholz-forstservice-gilbert.de^
 ||brennholz-friedrich.com^
 ||brennholz-hans.de^
+||brennholz-haus.com^
 ||brennholz-hofmann.de^
 ||brennholz-konig.de^
 ||brennholz-land.com^
@@ -125271,7 +125275,6 @@
 ||burtonconstablehall.info^
 ||burtonireland.com^
 ||burtonoutlet-eu.shop^
-||burtonrefund.info^
 ||burtonsale.com^
 ||burtonski.de^
 ||burtonsnowboard.de^
@@ -136253,7 +136256,6 @@
 ||catafalquaei.pro^
 ||catahoulapuppiesforsale.com^
 ||catalanscoin.cat^
-||catalia.de^
 ||catalinavargas.shop^
 ||catalog-telegram.site^
 ||catalog.dkn-group.ru^
@@ -137510,6 +137512,7 @@
 ||ccvwtdtwyu.tr^
 ||ccvwtdtwyu.trade^
 ||ccwbusinesslawyers.com^
+||ccwjl.com^
 ||ccwujq9x.top^
 ||ccww.shazink.com^
 ||ccx.cxvbnt453.dns-dynamic.net^
@@ -175832,7 +175835,6 @@
 ||cuttles.stream^
 ||cuttrispupshome.com^
 ||cuttsjoan.shop^
-||cutty.app^
 ||cutuergriff.shop^
 ||cutvqfact.life^
 ||cutworm.stream^
@@ -195883,6 +195885,7 @@
 ||dominiqueybq.shop^
 ||dominiserver.com^
 ||domino-handel.de^
+||domino-store.com^
 ||domino.hu.tl^
 ||domino88.net^
 ||domino99.gamehouseshop.com^
@@ -200899,7 +200902,6 @@
 ||duit303login.net^
 ||duit888login.net^
 ||duitlicin77.pages.dev^
-||duitpanas.top^
 ||duittoto12.com^
 ||duiuddcxhcxi.weeblysite.com^
 ||duiwhyme.com^
@@ -205270,6 +205272,7 @@
 ||ecelood.site^
 ||ecemans.com^
 ||eceming.com^
+||eceq.org^
 ||ecertlfnews.me^
 ||ecetana.shop^
 ||ecetonic.site^
@@ -220656,7 +220659,6 @@
 ||ewhsgdfxmdrjuamex.shop^
 ||ewhzjev2.com^
 ||ewigerbund.org^
-||ewigesleder.com^
 ||ewijjirwejiw.club^
 ||ewills.access.ly^
 ||ewinfirewallthree.com^
@@ -271535,6 +271537,7 @@
 ||gohyextac24.club^
 ||gohytemfspfo.shop^
 ||goi4gngay.vnvinaphone.vn^
+||goia-direkt.de^
 ||goid.deneszoh.shop^
 ||goiden1-verify.com^
 ||goidle.com^
@@ -280858,6 +280861,7 @@
 ||gpkqgvhnqawvgxfbvp.shop^
 ||gpkqvh.xn--t60b56a^
 ||gpl.org.il^
+||gplate.de^
 ||gplcode.net^
 ||gplhub.net^
 ||gplqpxhsunghmx.bid^
@@ -282529,6 +282533,7 @@
 ||greencrestcapitalpro.com^
 ||greencrossdelivery.net^
 ||greencrosspharmacy.online^
+||greendax.com^
 ||greendew.info^
 ||greendotsweeps.godaddysites.com^
 ||greenecotimes.com^
@@ -290508,7 +290513,6 @@
 ||haushaltmarkt.de^
 ||haushaltofficial.com^
 ||haushaltpradade.com^
-||haushalts.store^
 ||haushaltsaufloesung.14qm300euro.ohne-termin-entruempelung.de^
 ||haushaltsfee.de^
 ||haushaltsgeraete-profis.de^
@@ -328317,6 +328321,7 @@
 ||iphonecasehub.com^
 ||iphonechaogg.workers.dev^
 ||iphonedeals.tk^
+||iphonedefender.com^
 ||iphonedevice-support.com^
 ||iphonefreeoffers.com^
 ||iphonefunk.com^
@@ -333180,7 +333185,6 @@
 ||ivermectin4all.com^
 ||ivermectinkaufen.com^
 ||ivermectinkoupit.com^
-||ivernamart.com^
 ||ivernsale.com^
 ||iveromectinforsale.online^
 ||iveronline.com^
@@ -335694,6 +335698,7 @@
 ||jazzoni.com^
 ||jazzproxy.info^
 ||jazzy.hu.tl^
+||jb-brennholz.com^
 ||jb-health.de^
 ||jb-on-youtube.com^
 ||jb-store-jp.com^
@@ -347951,7 +347956,6 @@
 ||kedbuffigfjs.online^
 ||kedbuty.com^
 ||kedbyuhuyhmh.shop^
-||kedejo.com^
 ||kedexy.com^
 ||kedger--live--apporg.webflow.io^
 ||kedgeree.us^
@@ -387359,6 +387363,7 @@
 ||marksweresome.tk^
 ||marksystem.live^
 ||markt-shop.com^
+||markt.agency^
 ||markt.life^
 ||marktemusik.shop^
 ||marktexpress.com^
@@ -403484,6 +403489,7 @@
 ||midventrally.stream^
 ||midway-tactical.com^
 ||midwayammunition.com^
+||midwayschiesspulver.de^
 ||midweek.stream^
 ||midwestjyjsupplies.shop^
 ||midwestmoissanitewatches.com^
@@ -418458,6 +418464,7 @@
 ||mybigproxy4.info^
 ||mybill.oursite.co^
 ||mybillingnetflix.com^
+||mybillpoint.com^
 ||mybillsupport.com^
 ||mybiminibahamas.com^
 ||mybinance.net^
@@ -419310,6 +419317,7 @@
 ||myhandshops.myshopify.com^
 ||myhank.hu^
 ||myhank.pl^
+||myhanna.de^
 ||myhappydelivery.com^
 ||myhappypuppys.net^
 ||myhard.info^
@@ -428247,6 +428255,7 @@
 ||netsrgdfgdfgfg.blogspot.no^
 ||netstock-trade.com^
 ||netstreamag.publicvm.com^
+||netsugar.shop^
 ||netsuiteerpsupport.com^
 ||netsuitesupport.net^
 ||netsuitesupportusa.com^
@@ -432205,6 +432214,7 @@
 ||nhcdjyafq.top^
 ||nhcjnh5y9.shop^
 ||nhckvpjcbfhf.xyz^
+||nhcol.com^
 ||nhcpj.duckdns.org^
 ||nhcraig.com^
 ||nhcwqlztsp.duckdns.org^
@@ -442261,7 +442271,6 @@
 ||oeltiger.com^
 ||oeltop.de^
 ||oeluays.com^
-||oeluno.de^
 ||oelunox.de^
 ||oelup.de^
 ||oelvia.de^
@@ -448311,7 +448320,6 @@
 ||onlinecashbudgetsecuresurff.tk^
 ||onlinecashbudgetsecuresurffb.tk^
 ||onlinecasino-crypto.com^
-||onlinecasinodeutschliste.de^
 ||onlinecasinoe.us^
 ||onlinecasinoh.us^
 ||onlinecasinomitschnellerauszahlung.de^
@@ -461887,8 +461895,6 @@
 ||pay-update.com^
 ||pay-usps.shop^
 ||pay-wot.com^
-||pay.avito.avito.avito.pay.com-id20341.info^
-||pay.avito.sber.sberbank.booking.com-id90123.info^
 ||pay.osoobe.com^
 ||pay.pal.daten.91-92-109-123.cprapid.com^
 ||pay.quicktechies.com^
@@ -535315,16 +535321,12 @@
 ||sber.avito.ozon.youla.sberbank.selliod1dars.185-224-83-37.208-115-223-138.cprapid.com^
 ||sber.avito.sber.pay.comup.selliod1dars.185-224-83-37.208-115-225-141.cprapid.com^
 ||sber.avito.sberbank.avito.avito.avito.avito.avito.blablacar.sber.sber.g86bcoid5q842urjz.137-184-130-18.cprapid.com^
-||sber.pay.com-id20341.info^
-||sber.sberbank.www.booking.com-id123251.info^
 ||sber.www.ozon.yandex.xw8old81vkr6.live.kidaxi.ru^
 ||sber.yandex.avito.avito.avito.avito.covid19.audateam.com^
 ||sberbank-online-gid.ru^
-||sberbank.avito.avito.avito.avito.avito.com-id90123.info^
-||sberbank.avito.avito.avito.booking.com-id15421.info^
+||sberbank.avito.com-id90123.info^
 ||sberbank.avito.pay.avito.avito.avito.covid19.audateam.com^
 ||sberbank.avito.sber.avito.avito.avito.sber.avito.blablacar.blablacar.g86bcoid5q842urjz.137-184-130-18.cprapid.com^
-||sberbank.avito.www.booking.com-id23901.info^
 ||sberbank.blablacar.sberbank.shod1dars.185-224-83-37.mail.208-115-225-136.cprapid.com^
 ||sberbank.nalozhka.pay.cdek.shod1dars.185-224-83-37.mail.208-115-226-138.cprapid.com^
 ||sberbank.ord-491197.sbs^
@@ -572837,6 +572839,7 @@
 ||steamcommmunlty.com^
 ||steamcommnnity.com^
 ||steamcommnunity.com^
+||steamcommnunjity.com^
 ||steamcommnunmity.com^
 ||steamcommnunty.com^
 ||steamcommonunety.com^
@@ -574832,14 +574835,13 @@
 ||store.atoins.com^
 ||store.atrendsz.com^
 ||store.avarik.web.app^
-||store.avito.avito.www.avito.booking.com-id90123.info^
-||store.avito.pay.avito.avito.avito.avito.avito.com-id90123.info^
 ||store.backend.store.eset.co.il^
 ||store.bajeczki.org.pl^
 ||store.baltic-pipe-finansowy.blogspot.com^
 ||store.baltic79.wordpress.com^
 ||store.balticpipe.wordpress.com^
 ||store.benecharm.com^
+||store.benxi.info^
 ||store.best-torrents.com^
 ||store.bestvod.pl^
 ||store.bigappboi.com^
@@ -574890,6 +574892,7 @@
 ||store.communityuserapp.shop^
 ||store.communityuserdesing.shop^
 ||store.communityuserlist.shop^
+||store.coolest3d.com^
 ||store.couponxoo.com^
 ||store.crackedpc.org^
 ||store.creedhouse.online^
@@ -574907,7 +574910,6 @@
 ||store.doh-gov.ph^
 ||store.dopestore.pl^
 ||store.draxu.com^
-||store.duitpanas.top^
 ||store.e-indianvisa.com^
 ||store.e-touristvisaindia.com^
 ||store.earthtoolsbcs.com^
@@ -574951,7 +574953,6 @@
 ||store.freebitcoin.pages.dev^
 ||store.friday89.com^
 ||store.frostgoddess.com^
-||store.furykms.com^
 ||store.fveco.com^
 ||store.gearhomies.com^
 ||store.geekupdates.notion.site^
@@ -574989,6 +574990,7 @@
 ||store.injustice.site^
 ||store.instant-e-app-for-campaign.github.io^
 ||store.iphone.quiztionnaire.biz^
+||store.iphonedefender.com^
 ||store.iqcreditcheck.com^
 ||store.jaimerico.net^
 ||store.jasper-lilac-van.glitch.me^
@@ -575104,8 +575106,6 @@
 ||store.pantacusa.com^
 ||store.parajumpersnettbutikk.com^
 ||store.parajumpersnorway.com^
-||store.pay.avito.sberbank.com-id90123.info^
-||store.pay.www.avito.www.booking.com-id90123.info^
 ||store.payproglobal.com^
 ||store.penguinnow.com^
 ||store.pharaohstore.com^
@@ -575138,8 +575138,7 @@
 ||store.rustdesk.secure-box.de^
 ||store.ryanleacn.workers.dev^
 ||store.saveeeee.myshopify.com^
-||store.sberbank.avito.avito.avito.avito.www.booking.com-id90123.info^
-||store.sberbank.avito.booking.com-id23901.info^
+||store.sber.pay.avito.avito.avito.avito.com-id90123.info^
 ||store.seasonsofficial.com^
 ||store.securevault.top^
 ||store.security-meta.pages.app.br^
@@ -575159,6 +575158,7 @@
 ||store.southernutahlive.com^
 ||store.stableuniswap.xyz^
 ||store.startuplatte.com^
+||store.steamcommnunjity.com^
 ||store.steamgateways.com^
 ||store.steampowered.beta-elden-ring-nightreign.com^
 ||store.stellara.de^
@@ -575190,7 +575190,6 @@
 ||store.tiranaaquapark-eg.com^
 ||store.tiskomarket.com^
 ||store.tobiascelebritymusicevents.com^
-||store.toddlershood.shop^
 ||store.tomadamsenergy.com^
 ||store.topsolid.com^
 ||store.toyrube.com^
@@ -575237,7 +575236,6 @@
 ||store.vanced-official.com^
 ||store.vessisdeutschland.com^
 ||store.vider-pl.pl^
-||store.vider.cc^
 ||store.vip100.cc^
 ||store.virustoal.com^
 ||store.visacentral.com^
@@ -575247,7 +575245,6 @@
 ||store.vizjer.com.pl^
 ||store.vizjer.eu^
 ||store.vod-tv.pl^
-||store.vod.film^
 ||store.vodfix.pl^
 ||store.volcomofficial.com^
 ||store.voucheras.com^
@@ -643859,7 +643856,6 @@
 ||uandistrive.org^
 ||uaneofashion.shop^
 ||uang4dofficial.rest^
-||uange.shop^
 ||uanon.com^
 ||uaoutletsclothing.com^
 ||uapanet.tk^
@@ -667799,7 +667795,6 @@
 ||vigilcam.shop^
 ||vigkes.shop^
 ||vignali.stcloud.cloud^
-||vignetten.gettookun.com^
 ||vignettes.tk^
 ||vignobles-terroirs.com^
 ||vigoexpress.hu^
@@ -717399,7 +717394,6 @@
 ||www.avirusscan.com^
 ||www.avita.net.pl^
 ||www.avito-help.ru^
-||www.avito.pay.avito.avito.avito.avito.avito.com-id02349.info^
 ||www.avlegalsupport.com^
 ||www.avmekspres.com^
 ||www.avocat-ndoba.be^
@@ -718617,6 +718611,7 @@
 ||www.benvenutishoes.store^
 ||www.benwalkley.shop^
 ||www.benx828nwbq.shop^
+||www.benxi.info^
 ||www.benzkartel.duckdns.org^
 ||www.beooshadowed.info^
 ||www.beosdirwekaiweorlfd.com^
@@ -736977,7 +736972,6 @@
 ||www.dugycay.com^
 ||www.duiramoelis.xyz^
 ||www.duisdale.com^
-||www.duitpanas.top^
 ||www.dujkasfh.com^
 ||www.dukafu.com^
 ||www.dukecrea.neuronamarketing.com^
@@ -756650,6 +756644,7 @@
 ||www.iphone6forsubs.com^
 ||www.iphoneapplewatch.com^
 ||www.iphonecase.me.uk^
+||www.iphonedefender.com^
 ||www.iphonegewinnen.de^
 ||www.iphoneinc.com^
 ||www.iphoneoncamdegisimi.com^
@@ -780001,6 +779996,7 @@
 ||www.pay-pall.support^
 ||www.pay-someone-to-write-my-paper.com^
 ||www.pay-update.com^
+||www.pay.avito.avito.avito.avito.avito.avito.com-id02349.info^
 ||www.pay.osoobe.com^
 ||www.pay2me.pl^
 ||www.pay2x.ru^
@@ -784147,6 +784143,7 @@
 ||www.petronasai.live^
 ||www.petrorefining.com^
 ||www.petrotel-lukoil.com^
+||www.petsimulator.live^
 ||www.petsy.com.ua^
 ||www.petuniazspot.click^
 ||www.petverify.net^
@@ -793037,7 +793034,6 @@
 ||www.sbcglobaltechsupportphonenumber.blogspot.com^
 ||www.sbendpeci.cyou^
 ||www.sberbank-online-gid.ru^
-||www.sberbank.www.www.id19045617.info^
 ||www.sberboom.plp7.ru^
 ||www.sberrdisse.cyou^
 ||www.sberrtaroke.cyou^
@@ -795861,6 +795857,7 @@
 ||www.skinsplanet.net^
 ||www.skinsycs.89.pl^
 ||www.skinszone.net^
+||www.skipped.vip^
 ||www.skiptonfield.eu^
 ||www.skirtshop.shop^
 ||www.skjgroi43oq.shop^
@@ -798421,6 +798418,7 @@
 ||www.steamcodes4free.com^
 ||www.steamcoinapp.com^
 ||www.steamcoinme.com^
+||www.steamcommnunjity.com^
 ||www.steamcommnunmity.com^
 ||www.steamcommunityid.com^
 ||www.steamcomunnmity.com^
@@ -826237,6 +826235,7 @@
 ||www.yuynstore.com^
 ||www.yuyupatisserie.com^
 ||www.yuzlfy.top^
+||www.yvjexi.shop^
 ||www.yvlexa.info^
 ||www.yvocvo.shop^
 ||www.yvoghflbx.bid^
@@ -872496,10 +872495,7 @@
 ||yandex-xxx.com^
 ||yandex-yan.ru^
 ||yandex-yeam.ru^
-||yandex.avito.avito.avito.avito.avito.com-id23901.info^
-||yandex.avito.avito.avito.avito.com-id20341.info^
 ||yandex.avito.sber.selliod1dars.185-224-83-37.208-115-223-138.cprapid.com^
-||yandex.avito.sberbank.com-id90123.info^
 ||yandex.bar^
 ||yandex.blue^
 ||yandex.cdek.nalozhka.sberbank.selliod1dars.185-224-83-37.208-115-225-140.cprapid.com^
@@ -872524,7 +872520,6 @@
 ||yandex.shop^
 ||yandex.uno^
 ||yandex.website^
-||yandex.www.pay.www.booking.com-id15421.info^
 ||yandex0m6g9.top^
 ||yandex123.org^
 ||yandex123.ru^

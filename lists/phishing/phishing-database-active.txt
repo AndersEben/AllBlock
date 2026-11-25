@@ -1,6 +1,6 @@
 # Title: AllBlock – Phishing.Database – aktive Domains
 # Description: Phishing – normalisierte Kopie von https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 386608
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,6 +1,6 @@
 # Title: AllBlock – Fabrice Prigent – Ads (Firebog)
 # Description: Werbung – normalisierte Kopie von https://v.firebog.net/hosts/Prigent-Ads.txt
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 4269
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

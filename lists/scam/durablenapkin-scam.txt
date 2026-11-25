@@ -1,7 +1,7 @@
 # Title: AllBlock – durablenapkin Scam Blocklist
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-# Last modified: 2026-11-24 10:19 UTC
-# Entries: 2142
+# Last modified: 2026-11-25 19:59 UTC
+# Entries: 2129
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
@@ -77,6 +77,7 @@ beautysolution24.com
 beeaar.com
 beecrave.com
 benecharm.com
+benxi.info
 best-torrents.com
 bestpriceonline.store
 bestvod.pl
@@ -117,7 +118,6 @@ bsnltower.com
 bsntowoff.com
 buddhakind.com
 burgershirt.com
-burtonrefund.info
 buydubuy.com
 buzzazone.com
 bwpkizpfms.funnelish.com
@@ -166,7 +166,6 @@ crackedpc.org
 cracksway.com
 cryptot.net
 customizerbox.com
-cutty.app
 cycle100percent.com
 czasnakino.pl
 czwcvfbc.page.link
@@ -199,7 +198,6 @@ dreamstees.com
 dresseloves.com
 dressesloves.com
 dresseslovesootd.com
-duitpanas.top
 dumanus.com
 e-indianvisa.com
 e-touristvisaindia.com
@@ -273,7 +271,6 @@ find-vod.com
 find-vod.com.pl
 findglocal.com
 finnews7.wordpress.com
-fishingdaily.shop
 fitgirl-repacks-site.org
 fiusps.com
 fixpub.com
@@ -386,6 +383,7 @@ infosystemsllc.com
 injustice.site
 instant-e-app-for-campaign.github.io
 iphone.quiztionnaire.biz
+iphonedefender.com
 iqcreditcheck.com
 italyworldbaseballclassic.com
 itseasy.com
@@ -535,6 +533,7 @@ navi98.com
 navi99.com
 nbdiscount.com
 neozor.com
+netsugar.shop
 nevaon.com
 new.gdtot.me
 new.piratedrive.com
@@ -603,8 +602,6 @@ padsims.com
 pages.tempisite.com
 paradisevs.com
 path2zillion.com
-pay.avito.avito.avito.pay.com-id20341.info
-pay.avito.sber.sberbank.booking.com-id90123.info
 peekpok.com
 penguinnow.com
 peppatees.com
@@ -660,11 +657,7 @@ rustdesk.pl
 rustdesk.secure-box.de
 sakuradate.com
 saveeeee.myshopify.com
-sber.pay.com-id20341.info
-sber.sberbank.www.booking.com-id123251.info
-sberbank.avito.avito.avito.avito.avito.com-id90123.info
-sberbank.avito.avito.avito.booking.com-id15421.info
-sberbank.avito.www.booking.com-id23901.info
+sberbank.avito.com-id90123.info
 seagulltee.com
 seans24.com.pl
 seasonsofficial.com
@@ -717,6 +710,7 @@ stableuniswap.xyz
 staging.zendrop.com
 stallioncredit.com
 startuplatte.com
+steamcommnunjity.com
 steamgateways.com
 steamunlock.com
 stellara.de
@@ -750,14 +744,13 @@ store.astronomyfitmisguided.com
 store.atoins.com
 store.atrendsz.com
 store.avarik.web.app
-store.avito.avito.www.avito.booking.com-id90123.info
-store.avito.pay.avito.avito.avito.avito.avito.com-id90123.info
 store.backend.store.eset.co.il
 store.bajeczki.org.pl
 store.baltic-pipe-finansowy.blogspot.com
 store.baltic79.wordpress.com
 store.balticpipe.wordpress.com
 store.benecharm.com
+store.benxi.info
 store.best-torrents.com
 store.bestvod.pl
 store.bigappboi.com
@@ -792,6 +785,7 @@ store.cmoboy.com
 store.cognatesyringe.com
 store.coinaps.com
 store.coinreq.com
+store.coolest3d.com
 store.couponxoo.com
 store.crackedpc.org
 store.cryptot.net
@@ -804,7 +798,6 @@ store.desiupload.in
 store.doh-gov.ph
 store.dopestore.pl
 store.draxu.com
-store.duitpanas.top
 store.e-indianvisa.com
 store.e-touristvisaindia.com
 store.easypayment.me
@@ -841,7 +834,6 @@ store.folkrbvi.pages.dev
 store.freebitcoin.pages.dev
 store.friday89.com
 store.frostgoddess.com
-store.furykms.com
 store.fveco.com
 store.gearhomies.com
 store.geekupdates.notion.site
@@ -864,6 +856,7 @@ store.indiavisa.org
 store.injustice.site
 store.instant-e-app-for-campaign.github.io
 store.iphone.quiztionnaire.biz
+store.iphonedefender.com
 store.iqcreditcheck.com
 store.jasper-lilac-van.glitch.me
 store.jellystores.com
@@ -954,8 +947,6 @@ store.oschad.easypayment.me
 store.outel.abmarketworks.com
 store.padsims.com
 store.pages.tempisite.com
-store.pay.avito.sberbank.com-id90123.info
-store.pay.www.avito.www.booking.com-id90123.info
 store.penguinnow.com
 store.phirussacmush.net
 store.pinjamanrupiah.xyz
@@ -980,8 +971,7 @@ store.rozomii.info
 store.rsaonlinenow.com.au
 store.rustdesk.secure-box.de
 store.saveeeee.myshopify.com
-store.sberbank.avito.avito.avito.avito.www.booking.com-id90123.info
-store.sberbank.avito.booking.com-id23901.info
+store.sber.pay.avito.avito.avito.avito.com-id90123.info
 store.seasonsofficial.com
 store.securevault.top
 store.security-meta.pages.app.br
@@ -996,6 +986,7 @@ store.software19797.blogspot.com
 store.souhoney.com
 store.southernlife.net
 store.stableuniswap.xyz
+store.steamcommnunjity.com
 store.steamgateways.com
 store.stellara.de
 store.stingcool-com.myshopify.com
@@ -1018,7 +1009,6 @@ store.thevitic.onshopbase.com
 store.tikgeeker.com
 store.tinkleo.com
 store.tiranaaquapark-eg.com
-store.toddlershood.shop
 store.toyrube.com
 store.tpqcywcx.page.link
 store.traveldocs.com
@@ -1060,7 +1050,6 @@ store.uschse04.my03.com
 store.vanced-official.com
 store.vessisdeutschland.com
 store.vider-pl.pl
-store.vider.cc
 store.vip100.cc
 store.virustoal.com
 store.visacentral.com
@@ -1070,7 +1059,6 @@ store.visumbuitenland.nl
 store.vizjer.com.pl
 store.vizjer.eu
 store.vod-tv.pl
-store.vod.film
 store.vodfix.pl
 store.volcomofficial.com
 store.voucheras.com
@@ -1165,7 +1153,6 @@ turtleclient.xyz
 twinsbio.com
 twitchlogger.robalmeister.workers.dev
 twitterr.com
-uange.shop
 ucureo.com
 udemy-creators.com
 udrop.com
@@ -1307,7 +1294,6 @@ www.audiosg.com.sg
 www.augusthenri.be
 www.aussiesportfashion.com
 www.avarik.web.app
-www.avito.pay.avito.avito.avito.avito.avito.com-id02349.info
 www.azfancy.com
 www.azsolver.com
 www.babybeddingdesign.com
@@ -1321,6 +1307,7 @@ www.beautysolution24.com
 www.beeaar.com
 www.beecrave.com
 www.benecharm.com
+www.benxi.info
 www.best-torrents.com
 www.bestpriceonline.store
 www.bestvod.pl
@@ -1436,7 +1423,6 @@ www.dreamstees.com
 www.dresseloves.com
 www.dressesloves.com
 www.dresseslovesootd.com
-www.duitpanas.top
 www.dumanus.com
 www.e-indianvisa.com
 www.e-touristvisaindia.com
@@ -1610,6 +1596,7 @@ www.infosystemsllc.com
 www.injustice.site
 www.instant-e-app-for-campaign.github.io
 www.iphone.quiztionnaire.biz
+www.iphonedefender.com
 www.iqcreditcheck.com
 www.italyworldbaseballclassic.com
 www.itseasy.com
@@ -1814,12 +1801,14 @@ www.padsims.com
 www.pages.tempisite.com
 www.pandzee.com
 www.paradisevs.com
+www.pay.avito.avito.avito.avito.avito.avito.com-id02349.info
 www.peekpok.com
 www.penguinnow.com
 www.peppatees.com
 www.perlatoshoe.com
 www.personal84.com
 www.petparty.store
+www.petsimulator.live
 www.pharaohstore.com
 www.phgliders.com
 www.philsshorthairorientalkittens.com
@@ -1868,7 +1857,6 @@ www.rustdesk.pl
 www.rustdesk.secure-box.de
 www.sakuradate.com
 www.saveeeee.myshopify.com
-www.sberbank.www.www.id19045617.info
 www.seagulltee.com
 www.seans24.com.pl
 www.seasonsofficial.com
@@ -1893,6 +1881,7 @@ www.singingfiles.com
 www.singleflirt.com
 www.skincheap.com
 www.skinszone.net
+www.skipped.vip
 www.skyfollowerbridge.com
 www.sligen.com
 www.slimsyrups.ca
@@ -1919,6 +1908,7 @@ www.spotgee.com
 www.stableuniswap.xyz
 www.stallioncredit.com
 www.startuplatte.com
+www.steamcommnunjity.com
 www.steamgateways.com
 www.steamunlock.com
 www.stellara.de
@@ -2083,6 +2073,7 @@ www.youtunbe.com
 www.youutube.com
 www.ytvancedpro.com
 www.yuaonew.com
+www.yvjexi.shop
 www.z-lib.id
 www.z-lib.is
 www.zalukaj-film.pl
@@ -2110,10 +2101,6 @@ xcartpro.com
 xunlei.it
 xvid.social-previews.top
 yahhhoo.com
-yandex.avito.avito.avito.avito.avito.com-id23901.info
-yandex.avito.avito.avito.avito.com-id20341.info
-yandex.avito.sberbank.com-id90123.info
-yandex.www.pay.www.booking.com-id15421.info
 yasir252.com
 yeswevibe.com
 yeyvibe.com

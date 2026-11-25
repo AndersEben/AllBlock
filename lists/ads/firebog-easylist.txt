@@ -1,6 +1,6 @@
 # Title: AllBlock – EasyList (Firebog Pi-hole-Format)
 # Description: Werbung – normalisierte Kopie von https://v.firebog.net/hosts/Easylist.txt
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 51631
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

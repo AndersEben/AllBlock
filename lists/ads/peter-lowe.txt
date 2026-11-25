@@ -1,7 +1,7 @@
 # Title: AllBlock – Peter Lowe's Ad and tracking server list
 # Description: Werbung – normalisierte Kopie von https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-# Last modified: 2026-11-24 10:19 UTC
-# Entries: 3556
+# Last modified: 2026-11-25 19:59 UTC
+# Entries: 3557
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -3188,6 +3188,7 @@ ticksel.com
 tics.techdirt.com
 tidaltv.com
 tidysprite.com
+timeprince.com
 tinybar.com
 tinybluewhale.com
 tinytendency.com

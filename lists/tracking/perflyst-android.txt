@@ -1,6 +1,6 @@
 # Title: AllBlock – Perflyst Android Tracking
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 80
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

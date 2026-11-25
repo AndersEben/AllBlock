@@ -1,6 +1,6 @@
 # Title: AllBlock – StevenBlack Extension – Fakenews
 # Description: Fake News – normalisierte Kopie von https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
-# Last modified: 2026-11-24 10:19 UTC
+# Last modified: 2026-11-25 19:59 UTC
 # Entries: 2187
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

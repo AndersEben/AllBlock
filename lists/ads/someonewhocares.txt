@@ -1,7 +1,7 @@
 # Title: AllBlock – Dan Pollock's hosts (someonewhocares)
 # Description: Werbung – normalisierte Kopie von https://someonewhocares.org/hosts/zero/hosts
-# Last modified: 2026-11-24 10:19 UTC
-# Entries: 13116
+# Last modified: 2026-11-25 19:59 UTC
+# Entries: 13117
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://someonewhocares.org/hosts/zero/hosts
@@ -2617,6 +2617,7 @@ bottleguy.com
 bottlehere.com
 bougyuestelecom.fr
 boujois.fr
+bouncemultiple.pro
 boursidirect.fr
 bousedirect.fr
 boutique-papillon.fr
