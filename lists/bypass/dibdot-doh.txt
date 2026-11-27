@@ -1,6 +1,6 @@
 # Title: AllBlock – dibdot DoH Domains
 # Description: DoH / VPN / Proxy-Bypass – normalisierte Kopie von https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:15 UTC
 # Entries: 1416
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
@@ -48,7 +48,6 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -951,7 +950,6 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
@@ -1022,6 +1020,7 @@ kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
+kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
 las01.dnscry.pt
@@ -1029,6 +1028,7 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
+lesuo.top
 lewsha.lol
 lifeisa.live
 lindung.pp.ua
@@ -1040,13 +1040,16 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 los02.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
+mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
+mabuktogel.creditcard
 mabuktogel.enterprises
+mabuktogel.immobilien
+mabuktogel.limited
 mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
@@ -1201,7 +1204,6 @@ qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 quic.lol
-r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
 rdns.faelix.net
@@ -1374,7 +1376,6 @@ uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v.qdev.cc
 v.recipes
-v0dka.ru
 v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
@@ -1403,7 +1404,6 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
-xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 ymq01.dnscry.pt

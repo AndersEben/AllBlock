@@ -1,6 +1,6 @@
 # Title: AllBlock – HaGeZi Native Tracker – Xiaomi
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.xiaomi.txt
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:14 UTC
 # Entries: 411
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

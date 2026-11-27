@@ -1,6 +1,6 @@
 # Title: AllBlock – Disconnect.me Tracking
 # Description: Tracking & Telemetrie – normalisierte Kopie von https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:14 UTC
 # Entries: 34
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

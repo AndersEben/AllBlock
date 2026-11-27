@@ -1,6 +1,6 @@
 # Title: AllBlock – Admiral anti-adblock (Firebog)
 # Description: Werbung – normalisierte Kopie von https://v.firebog.net/hosts/Admiral.txt
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:14 UTC
 # Entries: 1653
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,6 +1,6 @@
 # Title: AllBlock – StevenBlack Extension – Gambling
 # Description: Glücksspiel – normalisierte Kopie von https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:15 UTC
 # Entries: 6744
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

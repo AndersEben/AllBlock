@@ -1,6 +1,6 @@
 # Title: AllBlock – StevenBlack Unified Hosts
 # Description: All-in-One – normalisierte Kopie von https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:15 UTC
 # Entries: 81675
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

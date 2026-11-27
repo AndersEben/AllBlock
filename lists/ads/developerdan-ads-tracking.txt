@@ -1,6 +1,6 @@
 # Title: AllBlock – Lightswitch05 Ads & Tracking Extended
 # Description: Werbung – normalisierte Kopie von https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:14 UTC
 # Entries: 429282
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

@@ -1,6 +1,6 @@
 # Title: AllBlock – ShadowWhisperer Scam
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-# Last modified: 2026-11-25 19:59 UTC
+# Last modified: 2026-11-27 19:14 UTC
 # Entries: 6185
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:

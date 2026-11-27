@@ -1,7 +1,7 @@
 # Title: AllBlock – durablenapkin Scam Blocklist
 # Description: Scam & Betrug – normalisierte Kopie von https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-# Last modified: 2026-11-25 19:59 UTC
-# Entries: 2129
+# Last modified: 2026-11-27 19:14 UTC
+# Entries: 2156
 # Homepage: https://github.com/AndersEben/AllBlock
 # Sources:
 #   - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
@@ -188,6 +188,7 @@ distrochooser.snehit.dev
 dkfodboldstore.com
 dleggere.com
 doh-gov.ph
+dolomiteoutlet.com
 dolystore.com
 dopestore.pl
 drakternorge.com
@@ -304,6 +305,7 @@ get-kmspico.com
 getintopc.today
 getkmspico.com
 getwavemax.com
+ggchallengemode.world
 giftyweb.com
 gig-os.com
 gimboy.com
@@ -312,6 +314,7 @@ gjseep.com
 gladiadormalas.com.br
 glitchy.go2cloud.org
 globalvisacorp.com
+goglle.com
 goindiavisa.com
 gossvibe.com
 greatoffersnow.com
@@ -329,6 +332,7 @@ hfr67jhqrw8.com
 hindustantowergroupltd.com
 hippie-pets.com
 hityvod.pl
+hookahheroes.com
 hostpoco.com
 hotdebrid.com
 hotmod.eu
@@ -345,6 +349,7 @@ iaqorwr.com
 icelandclothing.myshopify.com
 igloaptopto.net
 ikiha.com
+ikoee.com
 imagemotorcycles.co.nz
 imlb2c.com
 improtants.space
@@ -412,6 +417,7 @@ kmspi.co
 kmspico-official.org
 kmspico.io
 kmspico.ws
+kmspicoofficial.com
 knightmods.com
 kongpixel.com
 kontribusiuang.top
@@ -467,6 +473,7 @@ moddetail.com
 modmobile24.com
 monkstars.com
 ms-analytics.mywire.org
+msgclick.top
 mslfgl434.pages.dev
 mujib-store28.blogspot.com
 multifilmy.pl
@@ -533,7 +540,6 @@ navi98.com
 navi99.com
 nbdiscount.com
 neozor.com
-netsugar.shop
 nevaon.com
 new.gdtot.me
 new.piratedrive.com
@@ -567,6 +573,7 @@ nofotballshop.com
 nonofy.com
 norfotball.com
 norgefotball.com
+norgeshoes.com
 notify-user-adjustments.vercel.app
 novabeds.ca
 nowefilmyonline.pl
@@ -648,7 +655,6 @@ rjgriffith.com
 robinmooreband.com
 rockchief.com
 rosateeshop.com
-royaldecorhome.store
 royalhedgies.com
 rozomii.info
 rsaonlinenow.com.au
@@ -657,7 +663,6 @@ rustdesk.pl
 rustdesk.secure-box.de
 sakuradate.com
 saveeeee.myshopify.com
-sberbank.avito.com-id90123.info
 seagulltee.com
 seans24.com.pl
 seasonsofficial.com
@@ -796,6 +801,7 @@ store.d.slowmitter.top
 store.debridlink.com
 store.desiupload.in
 store.doh-gov.ph
+store.dolomiteoutlet.com
 store.dopestore.pl
 store.draxu.com
 store.e-indianvisa.com
@@ -826,6 +832,7 @@ store.fili-cc.tv
 store.filmersi.pl
 store.filmhit.pl
 store.filmhunt.pl
+store.filmiserial.pl
 store.filser.pl
 store.find-vod.com
 store.finnews7.wordpress.com
@@ -840,10 +847,12 @@ store.geekupdates.notion.site
 store.get-kmspico.com
 store.gimp.zendesk.com
 store.glitchy.go2cloud.org
+store.goglle.com
 store.gtlinfrastructurelimited.com
 store.helpnanacenter.helpscoutdocs.com
 store.heukmsactivator.com
 store.hityvod.pl
+store.hookahheroes.com
 store.hubfiles.ws
 store.hyndtren25.pages.dev
 store.i.fundatingquest.fun
@@ -866,6 +875,7 @@ store.keltysale.com
 store.kesug.com
 store.kinomaniak.cc
 store.klasykavod.pl
+store.kmspicoofficial.com
 store.knightmods.com
 store.letteringift.com
 store.litcomplex.com
@@ -890,6 +900,7 @@ store.modalsaya.xyz
 store.moddetail.com
 store.modmobile24.com
 store.ms-analytics.mywire.org
+store.msgclick.top
 store.mslfgl434.pages.dev
 store.mujib-store28.blogspot.com
 store.muskusa.com
@@ -921,6 +932,7 @@ store.navi98.com
 store.navi99.com
 store.new.gdtot.me
 store.new.piratedrive.com
+store.new2.gdtot.sbs
 store.next24.easypayment.me
 store.nip2.com
 store.nip24.com
@@ -931,11 +943,13 @@ store.nip46.com
 store.nip5.com
 store.nip9.com
 store.nonofy.com
+store.norgeshoes.com
 store.notify-user-adjustments.vercel.app
 store.nowefilmyonline.pl
 store.obejrzyj-to.pl
 store.official.olymptrade-my.com
 store.oflike.com
+store.ojlkimed.vip
 store.oldcube.com
 store.olive121407.studio.site
 store.olymptrade-qid.com
@@ -947,6 +961,7 @@ store.oschad.easypayment.me
 store.outel.abmarketworks.com
 store.padsims.com
 store.pages.tempisite.com
+store.pay.sber.pay.www.booking.com-id15421.info
 store.penguinnow.com
 store.phirussacmush.net
 store.pinjamanrupiah.xyz
@@ -971,7 +986,10 @@ store.rozomii.info
 store.rsaonlinenow.com.au
 store.rustdesk.secure-box.de
 store.saveeeee.myshopify.com
-store.sber.pay.avito.avito.avito.avito.com-id90123.info
+store.sber.avito.pay.com-id01251.info
+store.sberbank.avito.avito.avito.avito.avito.booking.com-id01251.info
+store.sberbank.avito.booking.com-id02349.info
+store.sberbank.www.booking.com-id02349.info
 store.seasonsofficial.com
 store.securevault.top
 store.security-meta.pages.app.br
@@ -1016,6 +1034,7 @@ store.travisa.com
 store.trendsharks.com
 store.treverschmelerkris18.myshopify.com
 store.tripinpremiumsnacks.com
+store.trumpsupport.help
 store.turtleclient.xyz
 store.twinsbio.com
 store.twitchlogger.robalmeister.workers.dev
@@ -1050,6 +1069,7 @@ store.uschse04.my03.com
 store.vanced-official.com
 store.vessisdeutschland.com
 store.vider-pl.pl
+store.vider.cc
 store.vip100.cc
 store.virustoal.com
 store.visacentral.com
@@ -1149,6 +1169,7 @@ tripinpremiumsnacks.com
 trivo.uk
 trkucibqy.com
 tronilnk.com
+trumpsupport.help
 turtleclient.xyz
 twinsbio.com
 twitchlogger.robalmeister.workers.dev
@@ -1199,7 +1220,6 @@ venezuelabaseballjerseys.com
 verfun.com
 vessisdeutschland.com
 vider-pl.pl
-vider.cc
 vider.com.pl
 vider.info.pl
 vindhuisdieren.com
@@ -1213,7 +1233,6 @@ visadone.com
 visafirst.com
 visagov.com
 visasimple.com
-visatoindia.org
 visumbuitenland.nl
 vizjer-pl.pl
 vizjer.com.pl
@@ -1373,6 +1392,7 @@ www.cityofdream.co.uk
 www.ckkebt.shop
 www.clemoa.com
 www.cluckergifts.ecwid.com
+www.cma88.vip
 www.cmoboy.com
 www.cognatesyringe.com
 www.coinaps.com
@@ -1413,6 +1433,7 @@ www.distrochooser.snehit.dev
 www.dkfodboldstore.com
 www.dleggere.com
 www.doh-gov.ph
+www.dolomiteoutlet.com
 www.dolystore.com
 www.dopestore.pl
 www.drakternorge.com
@@ -1492,6 +1513,7 @@ www.find-vod.com
 www.find-vod.com.pl
 www.findglocal.com
 www.finnews7.wordpress.com
+www.fitgirl-repacks.vip
 www.fiusps.com
 www.fixpub.com
 www.flattee.com
@@ -1531,6 +1553,7 @@ www.gimp.zendesk.com
 www.gladiadormalas.com.br
 www.glitchy.go2cloud.org
 www.globalvisacorp.com
+www.goglle.com
 www.goindiavisa.com
 www.gossvibe.com
 www.greatoffersnow.com
@@ -1547,6 +1570,7 @@ www.heukmsactivator.com
 www.hindustantowergroupltd.com
 www.hippie-pets.com
 www.hityvod.pl
+www.hookahheroes.com
 www.hostpoco.com
 www.hotdebrid.com
 www.hotmod.eu
@@ -1625,6 +1649,7 @@ www.kmspi.co
 www.kmspico-official.org
 www.kmspico.io
 www.kmspico.ws
+www.kmspicoofficial.com
 www.knightmods.com
 www.kongpixel.com
 www.kontribusiuang.top
@@ -1675,6 +1700,7 @@ www.moddetail.com
 www.modmobile24.com
 www.monkstars.com
 www.ms-analytics.mywire.org
+www.msgclick.top
 www.mslfgl434.pages.dev
 www.mujib-store28.blogspot.com
 www.multifilmy.pl
@@ -1770,6 +1796,7 @@ www.nofotballshop.com
 www.nonofy.com
 www.norfotball.com
 www.norgefotball.com
+www.norgeshoes.com
 www.notify-user-adjustments.vercel.app
 www.novabeds.ca
 www.nowefilmyonline.pl
@@ -1801,14 +1828,12 @@ www.padsims.com
 www.pages.tempisite.com
 www.pandzee.com
 www.paradisevs.com
-www.pay.avito.avito.avito.avito.avito.avito.com-id02349.info
 www.peekpok.com
 www.penguinnow.com
 www.peppatees.com
 www.perlatoshoe.com
 www.personal84.com
 www.petparty.store
-www.petsimulator.live
 www.pharaohstore.com
 www.phgliders.com
 www.philsshorthairorientalkittens.com
@@ -1857,6 +1882,10 @@ www.rustdesk.pl
 www.rustdesk.secure-box.de
 www.sakuradate.com
 www.saveeeee.myshopify.com
+www.sber.avito.pay.www.booking.com-id20341.info
+www.sber.sber.booking.com-id20341.info
+www.sberbank.avito.pay.www.booking.com-id02349.info
+www.sberbank.pay.avito.avito.avito.avito.sber.com-id02349.info
 www.seagulltee.com
 www.seans24.com.pl
 www.seasonsofficial.com
@@ -1881,7 +1910,6 @@ www.singingfiles.com
 www.singleflirt.com
 www.skincheap.com
 www.skinszone.net
-www.skipped.vip
 www.skyfollowerbridge.com
 www.sligen.com
 www.slimsyrups.ca
@@ -1967,6 +1995,7 @@ www.trendsharks.com
 www.treverschmelerkris18.myshopify.com
 www.tripinpremiumsnacks.com
 www.tronilnk.com
+www.trumpsupport.help
 www.turtleclient.xyz
 www.twinsbio.com
 www.twitchlogger.robalmeister.workers.dev
@@ -2029,7 +2058,6 @@ www.visadone.com
 www.visafirst.com
 www.visagov.com
 www.visasimple.com
-www.visatoindia.org
 www.visumbuitenland.nl
 www.vizjer-pl.pl
 www.vizjer.com.pl
@@ -2073,7 +2101,6 @@ www.youtunbe.com
 www.youutube.com
 www.ytvancedpro.com
 www.yuaonew.com
-www.yvjexi.shop
 www.z-lib.id
 www.z-lib.is
 www.zalukaj-film.pl
